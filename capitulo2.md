@@ -1,25 +1,152 @@
-# Objetivo do sistema e perfil de usuários
+# 2 - Sistema
+### 2.1 - Domínio e Objetivo do Sistema
+#### Domínio de Aplicação
+O PayPal está inserido no domínio de plataformas de pagamento online. Ele serve como uma carteira digital e plataforma de pagamento, permitindo que os usuários realizem transações financeiras de maneira segura, rápida e eficiente. O PayPal facilita pagamentos online em e-commerce, transferências de dinheiro entre indivíduos e pagamentos de serviços.
 
-### Domínio de Aplicação do Sistema
-PayPal é uma plataforma e-banking de pagamento online que facilita transações financeiras seguras e rápidas entre usuários e comerciantes. Ele é amplamente utilizado em:
-+ **E-commerce**: Para pagamentos em lojas online.
-+ **Pagamentos Pessoais**: Para transferências de dinheiro entre amigos e familiares.
-+ **Serviços Online**: Para cobranças de serviços como assinaturas de software, hospedagem de sites, etc.
+#### Histórico de Fundação
+O PayPal foi fundado em dezembro de 1998 por Max Levchin, Peter Thiel e Luke Nosek como Confinity. Inicialmente, a empresa se concentrou em software de segurança para dispositivos portáteis antes de mudar para a linha de negócios de transferências de dinheiro. O PayPal tornou-se rapidamente popular e foi adquirido pelo eBay em 2002. Desde então, cresceu exponencialmente e se tornou independente novamente em 2015. Hoje, é um dos serviços de pagamento online mais usados no mundo.
 
-### Objetivos Principais do Sistema
-Os principais objetivos do PayPal são:
-+ **Segurança**: Garantir que todas as transações sejam realizadas de forma segura, protegendo as informações financeiras dos usuários.
-+ **Conveniência**: Facilitar pagamentos rápidos e fáceis, tanto para compradores quanto para vendedores.
-+ **Globalização**: Permitir transações internacionais, conectando usuários e comerciantes de todo o mundo.
+#### Principais Funcionalidades
+- **Cadastro de Usuários**: Permite que novos usuários se registrem na plataforma, criando um perfil com informações básicas e métodos de pagamento.
+- **Pagamentos Online**: Facilita pagamentos em lojas online, permitindo que os usuários paguem com segurança usando seus saldos do PayPal, cartões de crédito ou débito.
+- **Transferências de Dinheiro**: Permite transferências rápidas e seguras de dinheiro entre usuários, seja para amigos, familiares ou comerciantes.
+- **Recebimento de Pagamentos**: Facilita para os comerciantes a aceitação de pagamentos de clientes, tanto online quanto em lojas físicas.
+- **Cobranças Recorrentes**: Suporte para cobranças automáticas, útil para assinaturas mensais ou serviços recorrentes.
+- **Gerenciamento de Contas**: Ferramentas para visualizar o saldo, histórico de transações e administrar métodos de pagamento.
+- **Proteção ao Comprador e ao Vendedor**: Programas de proteção que asseguram tanto compradores quanto vendedores em caso de problemas com transações.
+- **Segurança**: Criptografia SSL e autenticação multifator para garantir a segurança das transações e dos dados pessoais dos usuários.
 
-### Funcionalidades Principais
-Algumas das funcionalidades principais do PayPal incluem:
-+ **Pagamentos com Cartão de Crédito ou Débito**: Permite que usuários façam compras usando seus cartões de crédito ou débito.
-+ **Transferências Bancárias**: Facilita a transferência de dinheiro diretamente da conta bancária do usuário para outra conta.
-+ **Pagamentos em Lojas Físicas**: Usuários podem usar o aplicativo PayPal para fazer pagamentos em lojas parceiras, muitas vezes com descontos especiais.
-+ **Receber Pagamentos**: Permite que comerciantes recebam pagamentos de clientes de maneira segura e eficiente.
-+ **Cobranças Recorrentes**: Suporte para cobranças recorrentes, útil para assinaturas mensais ou anuais.
-+ **Rastreamento de Pagamentos**: Ferramentas para rastrear e gerenciar pagamentos, facilitando o acompanhamento de transações.
+### 2.2 – Perfil dos usuários-alvo
 
-### Propósito Geral
-O propósito geral do PayPal é prover uma plataforma de pagamento segura e eficiente que conecta usuários e comerciantes, facilitando transações financeiras globais e melhorando a experiência de compra e venda online.
+**1. Consumidores Individuais**
+
+**Faixa Etária**:
+- Principalmente jovens e adultos, entre 18 e 50 anos.
+
+**Contexto de Uso**:
+- Realização de compras online em lojas de e-commerce.
+- Transferências de dinheiro entre amigos e familiares.
+- Pagamento de serviços e assinaturas online.
+
+**Responsabilidades**:
+- **Gestão de Conta**: Manter os detalhes da conta atualizados, incluindo métodos de pagamento.
+- **Segurança**: Garantir que suas credenciais de login estejam seguras.
+- **Transações**: Realizar e monitorar transações, utilizando as funcionalidades de pagamento e transferência de dinheiro.
+
+**2. Comerciantes e Pequenas Empresas**
+
+**Faixa Etária**:
+- Adultos, geralmente entre 25 e 60 anos.
+
+**Contexto de Uso**:
+- Aceitação de pagamentos online através de suas lojas virtuais.
+- Gestão de transações e fluxo de caixa.
+- Processamento de pagamentos de clientes de maneira segura e eficiente.
+
+**Responsabilidades**:
+- **Configuração de Pagamentos**: Integrar PayPal como método de pagamento nas plataformas de e-commerce.
+- **Gestão de Vendas**: Monitorar e gerenciar pagamentos recebidos e pendentes.
+- **Segurança e Conformidade**: Garantir que as transações estejam em conformidade com os regulamentos de segurança financeira.
+
+**3. Grandes Empresas e Corporações**
+
+**Faixa Etária**:
+- Executivos e gerentes geralmente entre 30 e 65 anos.
+
+**Contexto de Uso**:
+- Implementação de soluções de pagamento escaláveis para grandes volumes de transações.
+- Integração com sistemas de ERP (Enterprise Resource Planning) para gestão financeira avançada.
+- Utilização de ferramentas analíticas para entender o comportamento de consumo e melhorar a oferta de produtos/serviços.
+
+**Responsabilidades**:
+- **Integração de Sistemas**: Conectar o PayPal com outros sistemas de gestão empresarial.
+- **Gestão Financeira**: Monitorar o fluxo de caixa e realizar auditorias internas.
+- **Segurança e Conformidade**: Implementar políticas de segurança avançadas e assegurar a conformidade regulatória.
+
+**4. Desenvolvedores e Integradores**
+
+**Faixa Etária**:
+- Jovens adultos e adultos, entre 20 e 50 anos.
+
+**Contexto de Uso**:
+- Integração da API do PayPal em sites e aplicativos de comércio eletrônico.
+- Desenvolvimento de novas funcionalidades e aplicações que utilizam o PayPal como solução de pagamento.
+
+**Responsabilidades**:
+- **Codificação e Desenvolvimento**: Escrever e manter o código que integra as funcionalidades do PayPal.
+- **Teste e Depuração**: Garantir que as integrações funcionem corretamente e sem bugs.
+- **Suporte Técnico**: Fornecer suporte técnico para resolver problemas de integração e garantir a continuidade do serviço
+
+### 2.3 – Tarefas dos usuários a serem avaliados
+
+**1. Consumidores Individuais**
+
+**Tarefas**:
+
+**Cadastro e Verificação de Conta**:
+- Criar uma conta no PayPal e verificar o e-mail.
+- Adicionar métodos de pagamento, como cartões de crédito ou débito.
+
+**Realizar Compras Online**:
+- Navegar por sites de e-commerce que aceitam PayPal.
+- Concluir a compra usando PayPal como método de pagamento.
+
+**Transferências de Dinheiro**:
+- Enviar dinheiro para amigos ou familiares usando o e-mail ou número de telefone.
+- Receber dinheiro de outros usuários e transferir para a conta bancária.
+
+**Gerenciamento de Conta:**
+- Verificar o saldo e o histórico de transações.
+- Atualizar informações pessoais e métodos de pagamento.
+
+**2. Comerciantes e Pequenas Empresas**
+
+**Tarefas**:
+
+**Integração de Pagamento:**
+- Configurar PayPal como método de pagamento no site de e-commerce.
+- Testar a funcionalidade para garantir que os pagamentos sejam processados corretamente.
+
+**Gerenciamento de Vendas:**
+- Monitorar e gerenciar pagamentos recebidos.
+- Gerar relatórios de vendas e fluxo de caixa.
+
+**Suporte ao Cliente**:
+- Resolver disputas e questões relacionadas a pagamentos.
+- Oferecer suporte ao cliente para transações realizadas via PayPal.
+
+**Segurança**:
+- Implementar medidas de segurança para proteger os dados dos clientes.
+- Garantir a conformidade com regulamentos financeiros.
+
+**3. Grandes Empresas e Corporações**
+
+**Tarefas**:
+
+**Integração de Sistemas:**
+- Conectar PayPal com sistemas de ERP e outras plataformas de gestão.
+- Desenvolver e manter integrações para facilitar grandes volumes de transações.
+
+**Análise de Dados**:
+- Utilizar ferramentas analíticas para entender o comportamento de consumo.
+- Melhorar a oferta de produtos e serviços com base nas análises de dados.
+
+**Segurança e Conformidade:**
+- Implementar políticas de segurança avançadas.
+- Assegurar a conformidade com as regulamentações financeiras e de privacidade.
+
+**4. Desenvolvedores e Integradores**
+
+**Tarefas:**
+
+**Desenvolvimento de Integrações:**
+- Usar a API do PayPal para integrar o sistema de pagamento em sites e aplicativos.
+- Escrever e manter o código para garantir a funcionalidade adequada.
+
+**Teste e Depuração:**
+- Realizar testes para garantir que a integração funcione corretamente.
+- Depurar problemas e resolver bugs que possam surgir durante a integração.
+
+**Suporte Técnico:**
+- Fornecer suporte técnico para ajudar comerciantes e empresas a integrar PayPal.
+- Atualizar e manter a documentação técnica das integrações.
