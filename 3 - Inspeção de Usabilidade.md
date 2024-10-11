@@ -22,7 +22,18 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 11 | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | Ajuda e documentação. | Média, pois dificulta a resolução de problemas e o aprendizado do sistema, causando frustração.| Estima-se 8 horas para melhorar a visibilidade da documentação e simplificar os guias de ajuda, tornando-os mais acessíveis e compreensíveis para novos usuários.|
 | 12 | As mensagens de erro podem ser vagas e não fornecer instruções claras sobre como resolver problemas específicos, deixando os usuários frustrados. | Reconhecimento, diagnóstico e recuperação de erros. |  Alta, pois impede o usuário de resolver problemas eficazmente e causa frustração. | Estima-se 10 horas para revisar e detalhar as mensagens de erro, fornecendo orientações claras e passos para a resolução de problemas específicos.|
 
+**Inspetor**: **A2**
 
+| ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
+|----|-----------------------|--------------------|------------|---------------|
+| 1  |  Dificuldade em receber o código de autenticação pelo celular.	O sistema de verificação de dois fatores via SMS apresenta falhas recorrentes como atrasos ou a não chegada do código ao dispositivo do usuário. Isso impede o login no app e compromete a segurança e usabilidade. | 9. Ajuda aos usuários a reconhecerem, diagnosticar e corrigir erros. | Alta (4) | 8h
+| 2  | Interface confusa na navegação entre seções	A interface não deixa claro em qual seção o usuário está, com ícones e menus mal diferenciados. Isso causa confusão ao navegar entre áreas como "Carteira" e "Atividade". | 1. Visibilidade do estado do sistema. | Moderada (3) | 6h |
+| 3  | Lentidão no carregamento de páginas.	O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | 4. Consistência e padrões. | Alta (4) | 10h |
+| 4  | Campos de formulário não claramente identificados.	Informações dos campos de formulários não são claros, levando a erros no preenchimento e frustração ao inserir informações pessoais. | 6. Reconhecimento em vez de memorização. | Moderada (3) | 4h |
+| 5  | Falta de feedback após realizar uma transação.	O usuário não recebe confirmação visual clara após completar uma transação, o que causa incerteza e pode levar a erros ou duplicações de pagamento. | 1. Visibilidade do estado do sistema | Alta (4) | 6h |
+| 6  | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | 3. Controle e liberdade do usuário. | Alta (4) | 6h |
+| 7  | Pop-ups interrompem o fluxo de uso.	Pop-ups aparecem em momentos inadequados, como durante transações, forçando o usuário a interagir com notificações e interrompendo o processo. | 5. Prevenção de erros. | Alta (4) | 8h |
+| 8  | Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. |8. Design estético e minimalista. | Alta (4) | 10h |
 
 **Inspetor**: **A3**
 
