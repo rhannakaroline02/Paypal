@@ -37,3 +37,8 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
 | 1 | A interface principal(home) possui pouca ou nenhuma informação que possa ajudar o usuário a se localizar, bem como encontrar de forma rápida e intuitiva as outras funcionalidades fornecidas pelo aplicativo. |                 |                   |             |               |
+| 2 | A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. |                 |                   |             |               |
+| 3 | A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. |              |               |       |               |
+| 4 | Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario frustrante. |         |         |        |         |
+| 5 | Mensagens de erro muito vagas, não esclarecem de forma objetiva e clara a causa do erro, deixando o usuario com duvida e sentimento de culpa. |       |       |       |      |
+
