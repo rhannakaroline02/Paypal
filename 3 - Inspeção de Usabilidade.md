@@ -33,7 +33,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 5  | Falta de feedback após realizar uma transação.	O usuário não recebe confirmação visual clara após completar uma transação, o que causa incerteza e pode levar a erros ou duplicações de pagamento. | 1. Visibilidade do estado do sistema | Alta (4) | 6h |
 | 6  | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | 3. Controle e liberdade do usuário. | Alta (4) | 6h |
 | 7  | Pop-ups interrompem o fluxo de uso.	Pop-ups aparecem em momentos inadequados, como durante transações, forçando o usuário a interagir com notificações e interrompendo o processo. | 5. Prevenção de erros. | Alta (4) | 8h |
-| 8  | 
+| 8  | Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. |8. Design estético e minimalista | Alta (4) | 10h |
 
 
 
