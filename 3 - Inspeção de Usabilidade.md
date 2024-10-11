@@ -9,7 +9,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1  |  Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro. | Ajuda ao usuário e documentação. | Alta, porque impede os usuários de completarem uma tarefa fundamental e pode resultar em abandono do processo de cadastro. | Estima-se 8 horas para revisar e melhorar o sistema de feedback de endereços no cadastro. |
+| 1  |  Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro. | Ajuda ao usuário e documentação. | 3 | Estima-se 8 horas para revisar e melhorar o sistema de feedback de endereços no cadastro. |
 | 2  | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. | Consistência e padrões. | Média, pois, embora não impeça o uso, causa dificuldades e frustrações que podem levar ao abandono do aplicativo. | Estima-se 12 horas para redesenhar elementos-chave da interface para torná-la mais intuitiva e consistente com outros aplicativos bancários populares. |
 | 3  |  As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. |  Flexibilidade e eficiência de uso. | Média, pois a complexidade das opções de pagamento pode causar frustração e abandono do processo de compra. | Estima-se 10 horas para implementar a opção de pagamento via Pix e ajustar a interface para simplificar as opções de pagamento. |
 | 4  | Quando solicitado um pagamento, a opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e não mostra se a mensagem foi vista, causando confusão e frustração. | Visibilidade do status do sistema. | Média, pois afeta a usabilidade e clareza das informações, mas não impede totalmente o funcionamento. | Estima-se 8 horas para redesenhar a interface, tornando a opção de histórico mais visível e incluindo um indicador de mensagens vistas. |
@@ -24,6 +24,8 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 
 
+**Inspetor**: **A3**
 
-
-
+| ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
+|----|-----------------------|--------------------|------------|---------------|
+| 1 | 
