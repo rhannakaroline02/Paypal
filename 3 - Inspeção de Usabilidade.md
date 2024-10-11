@@ -28,4 +28,4 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1 | 
+| 1 | No cadastro o Paypal não valida o email corretamente, assim dificultando o acesso para validação do email. | H9. Ajudar os usuários, diagnosticar e corrigir erros. | 03 Grande | 
