@@ -36,9 +36,10 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1 | A interface principal(home) possui pouca ou nenhuma informação que possa ajudar o usuário a se localizar, bem como encontrar de forma rápida e intuitiva as outras funcionalidades fornecidas pelo aplicativo. |                 |                   |             |               |
-| 2 | A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. |                 |                   |             |               |
-| 3 | A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. |              |               |       |               |
-| 4 | Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario frustrante. |         |         |        |         |
-| 5 | Mensagens de erro muito vagas, não esclarecem de forma objetiva e clara a causa do erro, deixando o usuario com duvida e sentimento de culpa. |       |       |       |      |
-
+| 1 | A interface principal(home) possui pouca ou nenhuma informação que possa ajudar o usuário a se localizar, bem como encontrar de forma rápida e intuitiva as outras funcionalidades fornecidas pelo aplicativo. | H7 | 2 | 20 min |               
+| 2 | A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. | H7 | 3 | 30 min |       
+| 3 | A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. | H10 | 3 | 30 min |      
+| 4 | Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario frustrante. | H2 | 3 | 20 min |         
+| 5 | Mensagens de erro muito vagas, não esclarecem de forma objetiva e clara a causa do erro, deixando o usuario com duvida e sentimento de culpa. | H5 | 3 | 1h |      
+| 6 | Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 | 3 | 30 min |    
+| 7 | As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 | 2 | 30 min |     
