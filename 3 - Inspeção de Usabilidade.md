@@ -66,7 +66,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | ID | Descrição problema | Heurística Violada | Severidade | Carga Horária | 
 |----|-----------------------|--------------------|------------|---------------|
 |1|Há uma certa difificulade para o aplicativo mostrar que o pagamento foi concluido | Visibilidade do sistema | Grande | 0:25 |
- |2|Ao enviar dinheiro por engano é dificultoso encontar uma opçao clara para corrigir/cancelar a transação| | controle e liberdade do usúario | Pequeno | 0:42 |
+ |2|Ao enviar dinheiro por engano é dificultoso encontar uma opçao clara para corrigir/cancelar a transação| controle e liberdade do usúario | Pequeno | 0:42 |
  |3|Ao fazer transferências o aplicativo não da a opção do usúario verificar pela segunda vez se o destinatário está correto| Prevenção de erros | Grande |00:20|
  |4| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario| Reconhecer ao invés de relembrar  |00:5 |
 | 5 | Apesar dde minimalista em seu menu a tela inicial que aparece após fazer login no aplicativo transmite o aspecto de bagunçado no qual não transmite o profissionalismo que deveria| Estética e desing minimalista |10:00 |
