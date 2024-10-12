@@ -30,7 +30,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 3  | Lentidão no carregamento de páginas.	O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | H4 - Consistência e Padronização | 4 | 10h |
 | 4  | Campos de formulário não claramente identificados.	Informações dos campos de formulários não são claros, levando a erros no preenchimento e frustração ao inserir informações pessoais. | H6 - Reconhecimento em vez de memorização | 3 | 4h |
 | 5  | Falta de feedback após realizar uma transação.	O usuário não recebe confirmação visual clara após completar uma transação, o que causa incerteza e pode levar a erros ou duplicações de pagamento. | H1 - Visibilidade do Status do Sistema | 4 | 6h |
-| 6  | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | 3. Controle e liberdade do usuário | 4 | 6h |
+| 6  | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | H3 - Controle e liberdade do usuário | 4 | 6h |
 | 7 | Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. |H8- Estética e desing minimalista | 4 | 10h |
 
 **Inspetor**: **A3**
