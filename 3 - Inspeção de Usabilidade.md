@@ -111,7 +111,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |22| A4| Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 - Visibilidade do Status do Sistema | 3 |
 |23| A4| As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 - Consistência e Padronização | 2 |
 |24| A5| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |
-|25| A6| 2 | Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 |
+|25| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 |
 | 26| A6 | Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 |
 | 27| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 |
 | 28| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
