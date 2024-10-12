@@ -83,5 +83,13 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 | 10 min |
 |  7 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 5 min | 
 
+## 3.3 Coleção 
+
+| ID | Inspetores | Descrição do problema | Heuristicas violadas  | Severidade |
+|----|-----------------------|--------------------|------------|---------------|
+| 1 |A1| Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro.|Ajuda ao usuário e documentação | 4| 
+|2| A1, A2, A3 | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. A confusão é agravada pela falta de clareza sobre a seção em que o usuário está, devido a ícones e menus mal diferenciados| Consistência e padrões/ Visibilidade do Status do Sistema (falta decidir)| 3 |
+|3| A1| As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. |  Flexibilidade e eficiência de uso. | 3 |
+
 
 
