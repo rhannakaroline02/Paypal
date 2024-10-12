@@ -84,6 +84,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  7 xx| Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 5 min | 
 
 ## 3.3 Coleção 
+Agrupamento de todas os problemas identificados e eliminaça o de duplicatas. 
 
 | ID | Inspetores | Descrição do problema | Heuristicas violadas  | Severidade |
 |----|-----------------------|--------------------|------------|---------------|
