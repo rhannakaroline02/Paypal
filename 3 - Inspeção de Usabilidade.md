@@ -61,6 +61,9 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-|  1 | Na tela inicial contem informações irrelevantes e tela pouca intuitiva. | H8- Estética e design minimalista. | 1 | 15 minutos | 
-|  2 | Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real | 1 | 15 minutos |
+|  1 | Na tela inicial contem informações irrelevantes e tela pouca intuitiva. | H8- Estética e design minimalista | 1 | 15 min  | 
+|  2 | Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 | 15 minutos |
+|  3 | Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 | 18 min |
+|  4 | Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 | 20 min |
+|  5 | Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  1 | 20 min |
 
