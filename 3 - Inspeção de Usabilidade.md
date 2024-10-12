@@ -54,3 +54,13 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | 5 | Mensagens de erro muito vagas, não esclarecem de forma objetiva e clara a causa do erro, deixando o usuario com duvida e sentimento de culpa. | H5 | 3 | 1h |      
 | 6 | Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 | 3 | 30 min |    
 | 7 | As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 | 2 | 30 min |     
+
+
+
+**Inspetor**: **A6**
+
+| ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
+|----|-----------------------|--------------------|------------|---------------|
+|  1 | Na tela inicial contem informações irrelevantes e tela pouca intuitiva. | H8- Estética e design minimalista. | 1 | 15 minutos | 
+|  2 | Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real | 1 | 15 minutos |
+
