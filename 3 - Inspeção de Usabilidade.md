@@ -64,11 +64,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 
 | ID | Descrição problema | Heurística Violada | Severidade | Carga Horária | 
+|----|-----------------------|--------------------|------------|---------------|
 |Há uma difificulade para o aplicativo que o pagamento foi concluido | Visibilidade do sistema | Grande | 0:25 |
  |Ao dinheiro por é enganocultoso encontar uma opçao clara para/cancelar um controle | e liberdade do usúario | Pequeno | 0:42 |
  |Ao para transferência fazers o aplicativo não opção de um do usúario pela segunda verificar se se vez o destinatário se está | correto de Prevenção | Grande |
  |Os ícones quem a "pagamentos" no aplicativos são diferentes dos jás: estamos acostumados a participar que a intuitiva do usúario | Reconhecer ao invés de relembrar  |00:5 |
-| 5 | Apesarde minimalista em seu menu a tela aparece que aparece inicial após a fazer login no transmite o aspecto aspecto de bagunçado no qual transmite o profissional o profissional que se deve | Estética e desing minimalista | |10:00 |
+| 5 | Apesarde minimalista em seu menu a tela aparece que aparece inicial após a fazer login no transmite o aspecto aspecto de bagunçado no qual transmite o profissional o profissional que se deve | Estética e desing minimalista |10:00 |
 
 
 **Inspetor**: **A6**
