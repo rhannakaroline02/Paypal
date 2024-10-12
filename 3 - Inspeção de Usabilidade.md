@@ -63,8 +63,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 **Inspetor**: **A5**
 
 
-| ID | Descrição problema | Heurística Violada | Severidade | Carga Horária |
-| ||||---------------------------------------------------------------------------------------- |
+| ID | Descrição problema | Heurística Violada | Severidade | Carga Horária | |
 | |Há uma difificulade para o aplicativo que o pagamento foi concluido | Visibilidade do sistema | Grande || 0:25 |
 | |Ao dinheiro por é enganocultoso encontar uma opçao clara para/cancelar um controle | e liberdade do usúario | Pequeno | 0:42 |
 | |Ao para transferência fazers o aplicativo não opção de um do usúario pela segunda verificar se se vez o destinatário se está | correto de Prevenção | Grande ||
