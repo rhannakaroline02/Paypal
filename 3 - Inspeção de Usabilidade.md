@@ -67,6 +67,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  4 | Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 | 20 min |
 |  5 | Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  1 | 20 min |
 |  6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 | 10 min |
+|  7 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 5 min | 
 
 
 
