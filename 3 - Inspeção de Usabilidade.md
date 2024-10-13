@@ -10,28 +10,28 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |----|-----------------------|--------------------|------------|---------------|
 | 1 xx |  Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro. |  H10 - Ajuda e documentação. | 4 |  40 min |
 | 2 xx | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. | H4 - Consistência e padrões. | 3 |  1 horas |
-| 3  xx|  As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. | H7 - Flexibilidade e eficiência de uso. | 3 | 40 min |
+| 3 xx |  As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. | H7 - Flexibilidade e eficiência de uso. | 3 | 40 min |
 | 4 xx | Quando solicitado um pagamento, a opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e não mostra se a mensagem foi vista, causando confusão e frustração. | H1 - Visibilidade do status do sistema. | 3 | 40 min |
-| 5 xx| Não fornecer feedback claro sobre o status de transações ou pagamentos em andamento, deixando os usuários incertos sobre se a transação foi bem-sucedida. | H1 - Visibilidade do status do sistema. | 4 |  30 min |
-| 6xx | Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | H2 - Compatibilidade entre o sistema e o mundo real. | 3 | 40 min |
-| 7xx | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. | H3 - Controle e liberdade do usuário. | 4 | 20 min |
-| 8 xx| Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | H6 - Reconhecimento em vez de memorização. | 4 | 4 horas |
-| 9 xx| Não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  H7 - Flexibilidade e eficiência de uso. | 3 |  40 min |
-| 10 xx| Algumas partes são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. | H8 - Design estético e minimalista. |  3 | 20 min |
-| 11xx | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | H10 - Ajuda e documentação. | 3|  1 hora |
+| 5 xx | Não fornecer feedback claro sobre o status de transações ou pagamentos em andamento, deixando os usuários incertos sobre se a transação foi bem-sucedida. | H1 - Visibilidade do status do sistema. | 4 |  30 min |
+| 6 xx | Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | H2 - Compatibilidade entre o sistema e o mundo real. | 3 | 40 min |
+| 7 xx | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. | H3 - Controle e liberdade do usuário. | 4 | 20 min |
+| 8 xx | Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | H6 - Reconhecimento em vez de memorização. | 4 | 4 horas |
+| 9 xx | Não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  H7 - Flexibilidade e eficiência de uso. | 3 |  40 min |
+| 10 xx | Algumas partes são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. | H8 - Design estético e minimalista. |  3 | 20 min |
+| 11 xx | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | H10 - Ajuda e documentação. | 3|  1 hora |
 | 12 xx | As mensagens de erro podem ser vagas e não fornecer instruções claras sobre como resolver problemas específicos, deixando os usuários frustrados. | H5 - Prevenção de erros. |  4 |  30 min |
 
 **Inspetor**: **A2**
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1  xx |  Dificuldade em receber o código de autenticação pelo celular.	O sistema de verificação de dois fatores via SMS apresenta falhas recorrentes como atrasos ou a não chegada do código ao dispositivo do usuário. Isso impede o login no app e compromete a segurança e usabilidade. | H9 - 9. Ajuda aos usuários a reconhecerem, diagnosticar e corrigir erros | 4 | 8h
-| 2 xx | Interface confusa na navegação entre seções	A interface não deixa claro em qual seção o usuário está, com ícones e menus mal diferenciados. Isso causa confusão ao navegar entre áreas como "Carteira" e "Atividade". | H1 - Visibilidade do Status do Sistema | 3 | 6h |
-| 3 xx | Lentidão no carregamento de páginas.	O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | H4 - Consistência e Padronização | 4 | 10h |
-| 4  xx | Campos de formulário não claramente identificados.	Informações dos campos de formulários não são claros, levando a erros no preenchimento e frustração ao inserir informações pessoais. | H6 - Reconhecimento em vez de memorização | 3 | 4h |
-| 5 xx | Falta de feedback após realizar uma transação.	O usuário não recebe confirmação visual clara após completar uma transação, o que causa incerteza e pode levar a erros ou duplicações de pagamento. | H1 - Visibilidade do Status do Sistema | 4 | 6h |
-| 6  xx | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | H3 - Controle e liberdade do usuário | 4 | 6h |
-| 7 xx| Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. |H8- Estética e desing minimalista | 4 | 10h |
+| 1 xx |  Dificuldade em receber o código de autenticação pelo celular.	O sistema de verificação de dois fatores via SMS apresenta falhas recorrentes como atrasos ou a não chegada do código ao dispositivo do usuário. Isso impede o login no app e compromete a segurança e usabilidade. | H9 - Ajuda para usuário identificar, diagnosticar e corrigir erros. | 4 | 1 hora
+| 2 xx | Interface confusa na navegação entre seções	A interface não deixa claro em qual seção o usuário está, com ícones e menus mal diferenciados. Isso causa confusão ao navegar entre áreas como "Carteira" e "Atividade". | H1 - Visibilidade do Status do Sistema.| 3 | 40 min |
+| 3 xx | Lentidão no carregamento de páginas.	O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | H4 - Consistência e Padrões. | 4 | 1 hora |
+| 4 xx | Campos de formulário não claramente identificados.	Informações dos campos de formulários não são claros, levando a erros no preenchimento e frustração ao inserir informações pessoais. | H6 - Reconhecimento em vez de memorização. | 3 | 30 min |
+| 5 xx | Falta de feedback após realizar uma transação.	O usuário não recebe confirmação visual clara após completar uma transação, o que causa incerteza e pode levar a erros ou duplicações de pagamento. | H1 - Visibilidade do Status do Sistema. | 4 | 40 min |
+| 6 xx | Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | H3 - Controle e liberdade do usuário.| 4 | 40 min |
+| 7 xx | Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. | H8 - Design estético e minimalista. | 4 | 1h |
 
 **Inspetor**: **A3**
 
