@@ -83,6 +83,8 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  6 xx| Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 | 10 min |
 |  7 xx| Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 5 min | 
 
+
+
 ## 3.3 Coleção 
 Agrupamento de todas os problemas identificados e eliminaça o de duplicatas. 
 
