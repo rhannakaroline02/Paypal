@@ -8,18 +8,18 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 **Inspetor**: **A1**
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1 xx |  Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro. | Ajuda ao usuário e documentação. | 4 | 1 hora |
-| 2 xx | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. | Consistência e padrões. | 3 |  3 horas |
-| 3  xx|  As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. |  Flexibilidade e eficiência de uso. | 3 | 4 horas |
-| 4 xx | Quando solicitado um pagamento, a opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e não mostra se a mensagem foi vista, causando confusão e frustração. | Visibilidade do status do sistema. | 3 | 1 hora |
-| 5 xx| Não fornecer feedback claro sobre o status de transações ou pagamentos em andamento, deixando os usuários incertos sobre se a transação foi bem-sucedida. | Visibilidade do status do sistema. | 4 |  4 horas |
-| 6xx | Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | Compatibilidade entre o sistema e o mundo real. | 3 | 2 horas |
-| 7xx | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. | Controle e liberdade do usuário. | 4 | 4 horas |
-| 8 xx| Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | Reconhecimento em vez de memorização. | 4 | 4 horas |
-| 9 xx| Não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  Flexibilidade e eficiência de uso. | 3 |  4 horas |
-| 10 xx| Algumas partes são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. |  Design estético e minimalista. |  3 | 3 horas |
-| 11xx | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | Ajuda e documentação. | 3|  4 horas |
-| 12 xx | As mensagens de erro podem ser vagas e não fornecer instruções claras sobre como resolver problemas específicos, deixando os usuários frustrados. | Reconhecimento, diagnóstico e recuperação de erros. |  4 |  4 horas |
+| 1 xx |  Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro. |  H10 - Ajuda e documentação. | 4 |  40 min |
+| 2 xx | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. | H4 - Consistência e padrões. | 3 |  1 horas |
+| 3  xx|  As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. | H7 - Flexibilidade e eficiência de uso. | 3 | 40 min |
+| 4 xx | Quando solicitado um pagamento, a opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e não mostra se a mensagem foi vista, causando confusão e frustração. | H1 - Visibilidade do status do sistema. | 3 | 40 min |
+| 5 xx| Não fornecer feedback claro sobre o status de transações ou pagamentos em andamento, deixando os usuários incertos sobre se a transação foi bem-sucedida. | H1 - Visibilidade do status do sistema. | 4 |  30 min |
+| 6xx | Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | H2 - Compatibilidade entre o sistema e o mundo real. | 3 | 40 min |
+| 7xx | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. | H3 - Controle e liberdade do usuário. | 4 | 20 min |
+| 8 xx| Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | H6 - Reconhecimento em vez de memorização. | 4 | 4 horas |
+| 9 xx| Não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  H7 - Flexibilidade e eficiência de uso. | 3 |  40 min |
+| 10 xx| Algumas partes são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. | H8 - Design estético e minimalista. |  3 | 20 min |
+| 11xx | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | H10 - Ajuda e documentação. | 3|  1 hora |
+| 12 xx | As mensagens de erro podem ser vagas e não fornecer instruções claras sobre como resolver problemas específicos, deixando os usuários frustrados. | H5 - Prevenção de erros. |  4 |  30 min |
 
 **Inspetor**: **A2**
 
@@ -37,12 +37,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
-| 1 xx| No cadastro o Paypal não valida o email corretamente, assim dificultando o acesso para validação do email. | Ajudar os usuários, diagnosticar e corrigir erros. | 4 | 3 Horas | 
-| 2 xx| O aplicativo as vezes apresenta dificulades em sua interfacede usuário, como dificuldade em navegação, dificuldades em encontrar informações. | Visibilidade Do Status do sitema | 4 | 4 Horas |
-| 3 xx| O aplicativo apresenta dificulades em encontrar informações relevantes e falta de feedback depois de realizar transações. | Prevenção de Erros | 4 | 12 horas |
-| 4 xx| Alguns usuários  relatam frequentemente que tem dificuldadesem navegar pelo aplicativo devido muitas informações, causando em confusão durante execuções de tarefas simples, como enviar ou receber dinheiro. |  Minimizar a Carga de Memória(??) | 3 | 10 horas| 
-| 5 xx| Tem mensagens de erro durante o preeenchimentos de dados são vagas e não indicam de forma correta o que precisa ser corrigido. | Prevenção de erros | 4 | 2 horas |
-| 6 xxx| Configurações de segurança e privacidade estão localizadas em um submenu difícil de acessar, que sifculta a personalização.  | Controle do usuário e liberdade. | 3 | 1 hora e meia |
+| 1 xx| No cadastro o Paypal não valida o email corretamente, assim dificultando o acesso para validação do email. | H5 - Prevenção de erros | 4 | 1 Hora | 
+| 2 xx| O aplicativo as vezes apresenta dificulades em sua interfacede usuário, como dificuldade em navegação, dificuldades em encontrar informações. | H1 - Visibilidade Do Status do sitema | 4 | 40 min |
+| 3 xx| O aplicativo apresenta dificulades em encontrar informações relevantes e falta de feedback depois de realizar transações. | H5 - Prevenção de Erros | 4 | 30 min |
+| 4 xx| Dficuldade em navegar pelo aplicativo devido muitas informações, causando em confusão durante execuções de tarefas simples, como enviar ou receber dinheiro. | H6 - Reconhecimento em vez de memorização | 3 | 40 min | 
+| 5 xx| Tem mensagens de erro durante o preeenchimentos de dados são vagas e não indicam de forma correta o que precisa ser corrigido. | H5 - Prevenção de erros | 4 | 30 min |
+| 6 xxx| Configurações de segurança e privacidade estão localizadas em um submenu difícil de acessar, que sifculta a personalização.  | H3 - Controle do usuário e liberdade. | 3 | 35 min |
 
 
 
