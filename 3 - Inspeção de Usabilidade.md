@@ -119,9 +119,35 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 | 29| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
 |  30| A6 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 |
 
+### 3.3 – Discriminação
+| ID | Descrição do problema | Classificação |
+|----|-----------------------|---------------|
+| 1 |
+| 2 | 
+| 3 |
+
+### 3.5 – Consolidação (ou Priorização)
+| Heurísticas violadas | Quantidade |
+| ---------------------|------------|
+| Visibilidade do estado do sistema (H1)| 6 |
+| Corresponde ncia entre o sistema e o mundo real (H2)| 3 |
+| Controle e liberdade do usua rio (H3) | 4 |
+| Consiste ncia e padronizaça o (H4) | 2 |
+| Prevença o de erros (H5) | 6 |
+| Reconhecer ao inve s de relembrar (H6)  | 3 |
+| Flexibilidade e eficie ncia de uso (H7)  | 2 |
+|  Este tica e design minimalista (H8)  | 6 |
+| Ajudar os usua rios a reconhecerem, diagnosticar e corrigir erros (H9) | 1 |
+| Ajuda e documentaça o (H10) | 4 |
 
 
-
+| Severidade | Quantidade|
+|------------|-----------|
+| 0 - Falso-Positivo |  |
+| 1 - Cosme tico |  |
+| 2 - Leve |  |
+| 3 - Grande |   |
+| 4 - Catastro fico |  
 
 
 
