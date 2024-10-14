@@ -90,12 +90,12 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 
 | ID | Inspetores | Descrição do problema | Heuristicas violadas  | Severidade |
 |----|-----------------------|--------------------|------------|---------------|
-| 1 |A1| Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro.|Ajuda ao usuário e documentação | 4| 
-|2| A1, A2, A3 | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. A confusão é agravada pela falta de clareza sobre a seção em que o usuário está, devido a ícones e menus mal diferenciados| Consistência e padrões/ Visibilidade do Status do Sistema (falta decidir)| 3 |
-|3| A1| As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. |  Flexibilidade e eficiência de uso. | 3 |
-|4| A1, A2, A3, A5 | A opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e o aplicativo não fornece feedback claro sobre o status das transações, causando confusão e frustração, o que gera incertezas e pode levar a erros ou duplicações de pagamento.| | 4|
-|5|A1| Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | Compatibilidade entre o sistema e o mundo real. | 3 
-|6| A1, A5 | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. Além disso, ao fazer transferências, o aplicativo não oferece ao usuário a opção de verificar novamente se o destinatário está correto| 4|
+| 1 |A1| Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro.| H4-Ajuda e documentação | 4| 
+|2| A1, A2, A3 | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. A confusão é agravada pela falta de clareza sobre a seção em que o usuário está, devido a ícones e menus mal diferenciados| H4-Consistência e padronização| 3 |
+|3| A1| As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix. |  H7- Eficiência e flexibilidade de uso. | 3 |
+|4| A1, A2, A3, A5 | A opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e o aplicativo não fornece feedback claro sobre o status das transações, causando confusão e frustração, o que gera incertezas e pode levar a erros ou duplicações de pagamento.|H5- Prevenção de erros | 4|
+|5|A1| Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online. | H2-Correspondência entre o sistema e o mundo real. | 3 |
+|6| A1, A5 | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. Além disso, ao fazer transferências, o aplicativo não oferece ao usuário a opção de verificar novamente se o destinatário está correto|H5- Prevenção de erros| 4|
 |7| A1| Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | Reconhecimento em vez de relembrar. | 4 |
 |8| A1 | Não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  Flexibilidade e eficiência de uso. | 3 |
 |9| A1, A4, A5, A6| Algumas partes do aplicativo são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. Apesar de um menu minimalista, a tela inicial que aparece após o login transmite uma sensação de desordem, não refletindo o profissionalismo esperado e acaba comprometendo a experiência do usuário| Estética e design minimalista| 2|
@@ -121,7 +121,7 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 | 29| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
 |  30| A6 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 |
 
-### 3.3 – Discriminação
+### 3.4 – Discriminação
 | ID | Descrição do problema | Classificação |
 |----|-----------------------|---------------|
 | 1 |
