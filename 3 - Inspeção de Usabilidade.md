@@ -99,7 +99,7 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 |7| A1| Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. |H6-Reconhecimento ao em vez de relembrar. | 4 |
 |8| A1, A4, A5, A6| Algumas partes do aplicativo são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. Apesar de um menu minimalista, a tela inicial que aparece após o login transmite uma sensação de desordem, não refletindo o profissionalismo esperado e acaba comprometendo a experiência do usuário| H8-Estética e design minimalista| 2|
 |9| A1| Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | H10-Ajuda e documentação. | 3|
-|10| A1, A3, A4 | As mensagens de erro no aplicativo são vagas e não oferecem instruções claras sobre como resolver problemas específicos, o que deixa os usuários frustrados. Durante o preenchimento de dados, essas mensagens não indicam corretamente o que precisa ser corrigido, gerando dúvidas e um sentimento de culpa nos usuários, que não conseguem entender de forma objetiva a causa do erro| Prevenção de erros| 2| 
+|10| A1, A3, A4 | As mensagens de erro no aplicativo são vagas e não oferecem instruções claras sobre como resolver problemas específicos, o que deixa os usuários frustrados. Durante o preenchimento de dados, essas mensagens não indicam corretamente o que precisa ser corrigido, gerando dúvidas e um sentimento de culpa nos usuários, que não conseguem entender de forma objetiva a causa do erro|H5-Prevenção de erros| 2| 
 |11| A2, A3 | Os usuários enfrentam dificuldades em receber o código de autenticação pelo celular, já que o sistema de verificação de dois fatores via SMS apresenta falhas recorrentes, como atrasos ou a não chegada do código, o que impede o login no app e compromete a segurança e usabilidade. Além disso, o PayPal não valida corretamente o email durante o cadastro, dificultando o acesso à validação necessária.|H9-Ajuda aos usuários a reconhecerem, diagnosticar e corrigir erros| 2| 
 |12| A2| Lentidão no carregamento de páginas.	O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | H7-Flexibilidade e eficiencia de uso| 3|
 |13| A2|  Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | H4- Consistencia e padrão | 2 |
@@ -112,9 +112,9 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 |20| A4| As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 - Consistência e Padronização | 2 |
 |21| A5| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |
 |22| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 ||
-| 24| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários, a opção de "menu" e "perfil" é pouco visível. | H10- Ajuda e documentação |  2 |
-| 25| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
-| 26| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
+| 23| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários, a opção de "menu" e "perfil" é pouco visível. | H10- Ajuda e documentação |  2 |
+| 24| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
+| 25| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
 ### 3.4 – Discriminação
 | ID | Descrição do problema | Classificação |
 |----|-----------------------|---------------|
