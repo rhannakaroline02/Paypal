@@ -117,10 +117,33 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 | 25| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
 ### 3.4 – Discriminação
 | ID | Descrição do problema | Classificação |
-|----|-----------------------|---------------|
-| 1 |
-| 2 | 
-| 3 |
+|----|-----------------------|-----------------|
+| 1 | Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro.| Falso-Positivo   |
+| 2 | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. A confusão é agravada pela falta de clareza sobre a seção em que o usuário está, devido a ícones e menus mal diferenciados | Real |
+| 3 | As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix pois não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente aoclicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | Real |
+| 4 | A opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e o aplicativo não fornece feedback claro sobre o status das transações, causando confusão e frustração, o que gera incertezas e pode levar a erros ou duplicações de pagamento. | Falso-Positivo |
+| 5 | Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online além do campo de formulário não ser claramente identificado as informações dos campos de formulários não são claras, levando a erros no preenchimento e frustração ao inserir informações pessoais. | Falso-Positivo |
+| 6 | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. Além disso, ao fazer transferências, o aplicativo não oferece ao usuário a opção de verificar novamente se o destinatário está correto | Real |
+| 7 | Exigir que os usuários lembrem de informações específicas, como números de referência ou detalhes de transações passadas, sem fornecer uma maneira fácil de recuperar essas informações. | Real |
+| 8 | Algumas partes do aplicativo são visualmente sobrecarregadas com informações e opções desnecessárias, dificultando a navegação. Apesar de um menu minimalista, a tela inicial que aparece após o login transmite uma sensação de desordem, não refletindo o profissionalismo esperado e acaba comprometendo a experiência do usuário | Real |
+| 9 | Embora o PayPal ofereça suporte, às vezes a documentação e os guias de ajuda podem ser difíceis de encontrar ou entender, especialmente para novos usuários. | Falso-Positivo |
+| 10 | As mensagens de erro no aplicativo são vagas e não oferecem instruções claras sobre como resolver problemas específicos, o que deixa os usuários frustrados. Durante o preenchimento de dados, essas mensagens não indicam corretamente o que precisa ser corrigido, gerando dúvidas e um sentimento de culpa nos usuários, que não conseguem entender de forma objetiva a causa do erro. | Real |
+| 11 | Os usuários enfrentam dificuldades em receber o código de autenticação pelo celular, já que o sistema de verificação de dois fatores via SMS apresenta falhas recorrentes, como atrasos ou a não chegada do código, o que impede o login no app e compromete a segurança e usabilidade. Além disso, o PayPal não valida corretamente o email durante o cadastro, dificultando o acesso à validação necessária. | Falso-Positivo |
+| 12 | Lentidão no carregamento de páginas. O aplicativo apresenta demora nas seções, como "Enviar Dinheiro". Isso pode criar frustração e insegurança em relação à confiabilidade do sistema. | Real |
+| 13 | Botão de confirmação posicionado de forma não intuitiva. O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | Falso-Positivo |
+| 14 | Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes | Falso-Positivo |
+| 15 | Configurações de segurança e privacidade estão localizadas em um submenu difícil de acessar, que difculta a personalização. | Falso-Positivo |
+| 16 | A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. | Real |
+| 17 | A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. | Falso-Positivo |
+| 18 | Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario de outro país frustrante. | Falso-Positivo |
+| 19 | Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | Real |
+| 20 | As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | Real |
+| 21 | Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario | Real |
+| 22 | Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | Falso-Positivo |
+| 23 | Problemas de acessibilidade, aplicativo não otimizado para todos os usuários, a opção de "menu" e "perfil" é pouco visível. | Real |
+| 24 | Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | Real |
+| 25 | Falta da opção de voltar a um estado anterior. | Falso-Positivo |
+
 
 ### 3.5 – Consolidação (ou Priorização)
 | Heurísticas violadas | Quantidade |
