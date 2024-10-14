@@ -106,19 +106,19 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 |14| A2|  Botão de confirmação posicionado de forma não intuitiva.	O botão de confirmação de transações está mal localizado na interface, forçando o usuário a procurar ou rolar a tela. | H4- Consistencia e padrão | 2 |
 |15| A2| Layout não otimizado para dispositivos móveis. O layout não se ajusta adequadamente a diferentes tamanhos de tela, o que força o usuário a rolar ou redimensionar para visualizar elementos importantes. |H8- Estética e desing minimalista | 4 |
 |16| A3|  Configurações de segurança e privacidade estão localizadas em um submenu difícil de acessar, que difculta a personalização.  | H3-Controle do usuário e liberdade. | 3 |
-|18| A4| A interface principal(home) possui pouca ou nenhuma informação que possa ajudar o usuário a se localizar, bem como encontrar de forma rápida e intuitiva as outras funcionalidades fornecidas pelo aplicativo. | H7 - Eficiência e flexibilidade de uso | 2 |
-|19| A4|  A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. | H7 - Eficiência e flexibilidade de uso | 3 |
-|20| A4| A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. | H10 - Ajuda e documentação | 3 |
-|21| A4| Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario de outro país frustrante. | H2 - Compatibilidade entre o sistema e o mundo real | 3 | 
-|22| A4| Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 - Visibilidade do Status do Sistema | 3 |
-|23| A4| As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 - Consistência e Padronização | 2 |
-|24| A5| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |
-|25| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 |
-| 26| A6 | Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 |
-| 27| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 |
-| 28| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
-| 29| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
-|  30| A6 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 |
+|17| A4| A interface principal(home) possui pouca ou nenhuma informação que possa ajudar o usuário a se localizar, bem como encontrar de forma rápida e intuitiva as outras funcionalidades fornecidas pelo aplicativo. | H7 - Eficiência e flexibilidade de uso | 2 |
+|18| A4|  A forma de busca por contato, seja para efetuar um pagamento ou fazer uma cobrança, não é eficiente. | H7 - Eficiência e flexibilidade de uso | 3 |
+|19| A4| A todo momento fica pedindo confirmação de segurança, o que acaba frustrando os usuário por fazer processos repetitivos e desnecessarios. | H10 - Ajuda e documentação | 3 |
+|20| A4| Algumas funcionalidades não estão disponiveis no Brasil tornando a experiencia do usuario de outro país frustrante. | H2 - Compatibilidade entre o sistema e o mundo real | 3 | 
+|21| A4| Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 - Visibilidade do Status do Sistema | 3 |
+|22| A4| As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 - Consistência e Padronização | 2 |
+|23| A5| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |
+|24| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 |
+| 25| A6 | Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 |
+| 26| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 |
+| 27| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
+| 28| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
+| 29| A6 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 |
 
 ### 3.4 – Discriminação
 | ID | Descrição do problema | Classificação |
