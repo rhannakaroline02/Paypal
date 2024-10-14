@@ -1,7 +1,7 @@
-##4 – Teste de Usabilidade
+# 4 – Teste de Usabilidade
 
-4.1 – Planejamento
-Teste de Usabilidade:
+### 4.1 – Planejamento
+**Teste de Usabilidade**:
 1.	Planejamento do teste.
 •	Definição do público-alvo
 •	Tarefas a serem executadas
