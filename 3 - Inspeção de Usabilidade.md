@@ -68,7 +68,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
  |2xx|Ao enviar dinheiro por engano é dificultoso encontar uma opçao clara para corrigir/cancelar a transação| H3-controle e liberdade do usúario | 4 | 0:42 |
  |3xx|Ao fazer transferências o aplicativo não da a opção do usúario verificar pela segunda vez se o destinatário está correto|H5- Prevenção de erros | 3 |00:20|
  |4xx| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |00:5 |
-| 5 xx| Apesar dde minimalista em seu menu a tela inicial que aparece após fazer login no aplicativo transmite o aspecto de bagunçado no qual não transmite o profissionalismo que deveria|H8- Estética e desing minimalista| 3 |10:00 |
+| 5 xx| Apesar de minimalista em seu menu a tela inicial que aparece após fazer login no aplicativo transmite o aspecto de bagunçado no qual não transmite o profissionalismo que deveria|H8- Estética e desing minimalista| 3 |00:10 |
 
 
 **Inspetor**: **A6**
@@ -76,12 +76,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 | ID | Descrição do problema | Heurística Violada | Severidade | Carga Horária |
 |----|-----------------------|--------------------|------------|---------------|
 |  1 xx| Na tela inicial contem informações irrelevantes e tela pouca intuitiva. | H8- Estética e design minimalista | 1 | 15 min  | 
-|  2 xx| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 | 15 min |
-|  3 xx| Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 | 18 min |
-|  4 xx| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 | 20 min |
-|  5 xx| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 | 20 min |
-|  6 xx| Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 | 10 min |
-|  7 xx| Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 5 min | 
+|  2 xx| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 | 00:15 |
+|  3 xx| Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 | 00:18 |
+|  4 xx| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 | 00:20 |
+|  5 xx| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 | 00:20 |
+|  6 xx| Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 | 00:10 |
+|  7 xx| Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 | 00:05 | 
 
 
 
@@ -92,7 +92,7 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 |----|-----------------------|--------------------|------------|---------------|
 | 1 |A1| Quando o usuário tenta se cadastrar no PayPal e pesquisa seu endereço, o sistema não fornece um feedback correto ou útil, resultando em dificuldades para completar o cadastro.| H4-Ajuda e documentação | 4| 
 |2| A1, A2, A3 | Usuários ficam perdidos ao entrar no aplicativo após se cadastrarem, pois a interface é diferente de outros aplicativos bancários, dificultando a navegação e o uso eficiente. A confusão é agravada pela falta de clareza sobre a seção em que o usuário está, devido a ícones e menus mal diferenciados| H4-Consistência e padronização| 3 |
-|3| A1, A1| As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix pois não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente. |  H7- Eficiência e flexibilidade de uso. | 3 |
+|3| A1, A1, A6| As opções de pagamento são complexas, e poderia ser mais fácil se houvesse uma opção para pagar com Pix pois não oferece atalhos ou opções de personalização suficientes para tornar o processo de pagamento mais rápido e eficiente aoclicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário.  |  H7- Eficiência e flexibilidade de uso. | 3 |
 |4| A1, A2, A3, A5 | A opção para visualizar o histórico de pagamentos pendentes é difícil de encontrar, e o aplicativo não fornece feedback claro sobre o status das transações, causando confusão e frustração, o que gera incertezas e pode levar a erros ou duplicações de pagamento.|H5- Prevenção de erros | 4|
 |5|A1,A2| Usa muitos termos técnicos e jargões financeiros que podem não ser familiares a todos os usuários, especialmente aqueles que não estão acostumados a transações online além do campo de formulário não ser claramente identificado as	informações dos campos de formulários não são claras, levando a erros no preenchimento e frustração ao inserir informações pessoais. | H2-Correspondência entre o sistema e o mundo real. | 3 |
 |6| A1, A5 | Em alguns casos, pode ser difícil desfazer uma transação ou cancelar um pagamento, especialmente se a transação já estiver processada. Além disso, ao fazer transferências, o aplicativo não oferece ao usuário a opção de verificar novamente se o destinatário está correto|H5- Prevenção de erros| 4|
@@ -111,13 +111,10 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 |19| A4| Encontrar a função que mostra as atividade da conta é um tanto difil, não existem atalhos, é necessário seguir varias etapas, isso se torna algo cansativo para os usuários. | H1 - Visibilidade do Status do Sistema | 3 |
 |20| A4| As interfaces não seguem um padrão, muda o layout de uma para outra dificultando a memorização de ações executadas. | H4 - Consistência e Padronização | 2 |
 |21| A5| Os ícones que remetem a "pagamentos" no aplicativos são diferentes dos que já estamos acostumados que dificulta a parte intuitiva do usúario|H6- Reconhecer ao invés de relembrar| 1  |
-|22| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 |
-| 23| A6 | Ao clicar em “pagamentos” e depois na aba “doar” há muita informação desnecessária, confundindo o usuário. | H8- Estética e design minimalista |  1 |
-| 24| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários. | H10- Ajuda e documentação |  2 |
+|22| A6| Na aba “informações pessoais” há uma mistura de idioma, dificultando o entedimento do usuário. | H2- Compatibilidade do sistema com o mundo real |  1 ||
+| 24| A6| Problemas de acessibilidade, aplicativo não otimizado para todos os usuários, a opção de "menu" e "perfil" é pouco visível. | H10- Ajuda e documentação |  2 |
 | 25| A6| Limitação de idioma, a falta da opção de escolher um idioma, limiatando alguns usuários a usar o aplicativo. | H10- Ajuda e documentação |  2 |
 | 26| A6 | Falta da opção de voltar a um estado anterior. | H3- Controle e liberdade do usuário |  1 |
-| 27| A6 | Opção de "menu" e "perfil" pouco visível. | H8 - Estática e design minimalista | 1 |
-
 ### 3.4 – Discriminação
 | ID | Descrição do problema | Classificação |
 |----|-----------------------|---------------|
