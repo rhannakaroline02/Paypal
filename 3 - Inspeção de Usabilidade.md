@@ -148,14 +148,14 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 ### 3.5 – Consolidação (ou Priorização)
 | Heurísticas violadas | Quantidade |
 | ---------------------|------------|
-| Visibilidade do estado do sistema (H1)| 6 |
+| Visibilidade do estado do sistema (H1)| 1|
 | Corresponde ncia entre o sistema e o mundo real (H2)| 3 |
-| Controle e liberdade do usua rio (H3) | 4 |
-| Consiste ncia e padronizaça o (H4) | 2 |
-| Prevença o de erros (H5) | 6 |
-| Reconhecer ao inve s de relembrar (H6)  | 3 |
-| Flexibilidade e eficie ncia de uso (H7)  | 2 |
-|  Este tica e design minimalista (H8)  | 6 |
+| Controle e liberdade do usua rio (H3) | 2 |
+| Consiste ncia e padronizaça o (H4) | 4 |
+| Prevença o de erros (H5) | 3 |
+| Reconhecer ao inve s de relembrar (H6)  | 2 |
+| Flexibilidade e eficie ncia de uso (H7)  | 3 |
+|  Este tica e design minimalista (H8)  | 2 |
 | Ajudar os usua rios a reconhecerem, diagnosticar e corrigir erros (H9) | 1 |
 | Ajuda e documentaça o (H10) | 4 |
 
