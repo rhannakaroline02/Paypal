@@ -21,9 +21,9 @@ Consumidores Individuais que buscam fazer pagamentos com segurança para pessoas
 
 
 As responsabilidades de uso dentro da aplicação inclui:
-Gestão de Conta: Manter os detalhes da conta atualizados, incluindo métodos de pagamento.
-Segurança: Garantir que suas informações de login estejam seguras.
-Transações: Realizar e monitorar transações, utilizando as funcionalidades de pagamento e transferência de dinheiro.
+1. Gestão de Conta: Manter os detalhes da conta atualizados, incluindo métodos de pagamento.
+2. Segurança: Garantir que suas informações de login estejam seguras.
+3. Transações: Realizar e monitorar transações, utilizando as funcionalidades de pagamento e transferência de dinheiro.
 
 
 ### 2.3 – Tarefas dos usuários a serem avaliados:
