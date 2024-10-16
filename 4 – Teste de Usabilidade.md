@@ -14,7 +14,7 @@
 •	Recrutamento dos participantes
 •	Instalação dos equipamentos
 •	Preparação do ambiente dos testes
-
+### P1
 "<img src="C:\Users\Mar\Downloads\WhatsApp Image 2024-10-16 at 19.28.23.jpeg" alt="Termo de consetimento" width="300">"
 
 ### 4.3 - Teste piloto.
