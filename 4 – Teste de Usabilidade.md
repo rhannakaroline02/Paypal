@@ -37,23 +37,23 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |         1       |        0              | CONCLUIDO |
+| P2           |     6min    |         1       |        0              | CONCLUIDO |
 | P3           |             |                 |                       |           |
-| p4           |             |                 |                       |           |
+| P4           |             |                 |                       |           |
 
 |                                    Tarefa 2                                      |
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |        3        |            1          | DESISTIU  |
+| P2           |     10min    |        3        |            1          | DESISTIU  |
 | P3           |             |                 |                       |           |
-| p4           |             |                 |                       |           |
+| P4           |             |                 |                       |           |
 
 |                                    Tarefa 3                                      |
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |         0       |           0           | CONCLUIDO |
+| P2           |     4min    |         0       |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -61,7 +61,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |        0        |           0           | CONCLUIDO |
+| P2           |     3min    |        0        |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -69,7 +69,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |        0        |          1            | DESISTIU  |
+| P2           |    1min     |        0        |          1            | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -77,7 +77,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |        3        |           3           | CONCLUIDO |
+| P2           |     6min    |        3        |           3           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -85,7 +85,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |        0        |           0           | DESISTIU  |
+| P2           |    1min     |        0        |           0           | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -93,7 +93,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |         0       |            1          | CONCLUIDO |
+| P2           |     4min    |         0       |            1          | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
@@ -109,13 +109,13 @@
 | Participante 2 |                 |                         |
 |----------------|-----------------|-------------------------|
 | **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
-|         1       |     Dificuldade em escolher Portfólio: Encontrou dificuldade para encontrar a opção desejada.        |                         |
+|         1       |     Dificuldade em escolher Portfólio: Encontrou dificuldade para encontrar a opção desejada.        |                      Facilidade de aprendizado.   | 
 |	      |                                               |                         |
-|         2       |       O Sistema encontrou dificuldade de conexão.           |                         |
-|          3      |         Ele não conseguiu colar a numeração do cartão.         |                         |
-|          4    |  O Sistema disse que não foi possível concluir a transação naquele momento. |                         |
-|          5      |      Não conseguiu enxergar a opção para adicionar a conta bancária de primeira.            |                         |
-|         6       |     O Sistema perguntou se o usuário precisa de ajuda e pediu para entrar em contato com a Central de Ajuda. Entrou as opções da Central de Ajuda, porém não foi útil.             |                         |
-|          7      |      Entrou em contato com o suporte e foi encaminhado à Central de ajuda.            |                         |
-|          8      |      Desistiu de acessar as ferramentas do Vendedor no PayPal.           |                         |
-|          9      |         Devido a não conseguir adicionar a conta bancária. Desistiu de fazer a opção de inserir bancos favoritos.        |                         |
+|         2       |       O Sistema encontrou dificuldade de conexão.           |     Eficiência de uso.                    |
+|          3      |         Ele não conseguiu colar a numeração do cartão.         |    Eficiência de uso.                     |
+|          4    |  O Sistema disse que não foi possível concluir a transação naquele momento. |            Prevenção de erros.             |
+|          5      |      Não conseguiu enxergar a opção para adicionar a conta bancária de primeira.            |          Facilidade de aprendizado.               |
+|         6       |     O Sistema perguntou se o usuário precisa de ajuda e pediu para entrar em contato com a Central de Ajuda. Entrou as opções da Central de Ajuda, porém não foi útil.             |            Satisfação de uso.             |
+|          7      |      Entrou em contato com o suporte e foi encaminhado à Central de ajuda.            |          Satisfação de uso.               |
+|          8      |      Desistiu de acessar as ferramentas do Vendedor no PayPal.           |           Facilidade de aprendizado.              |
+|          9      |         Devido a não conseguir adicionar a conta bancária. Desistiu de fazer a opção de inserir bancos favoritos.        |            Satisfação de uso.             |
