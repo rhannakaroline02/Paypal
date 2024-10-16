@@ -15,7 +15,7 @@
 •	Instalação dos equipamentos
 •	Preparação do ambiente dos testes
 ### P1
-"<img src="" alt="Termo de consetimento" width="300">"
+"<img src="C:\Users\Mar\Pictures\WhatsApp Image 2024-10-16 at 19.47.43.png" alt="Termo de consetimento" width="300">"
 
 ### 4.3 - Teste piloto.
 - **O teste piloto foi conduzido para avaliar a usabilidade do sistema PayPal, focando nas seguintes tarefas**:
