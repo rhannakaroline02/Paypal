@@ -1,1 +1,6 @@
+Durante a inspeção de usabilidade do PayPal, todas as etapas apresentaram desafios significativos. Foi necessário analisar detalhadamente cada parte do sistema para identificar possíveis problemas. A parte de usabilidade foi a mais difícil, pois tivemos que identificar as heurísticas violadas, um processo demorado, especialmente combinado com os testes. A parte de UX foi mais tranquila, enquanto a comunicação foi trabalhosa devido à gravação dos usuários e identificação de seus problemas.
+
+Os desafios enfrentados incluíram a coleta consistente de dados, o engajamento dos participantes e a interpretação do feedback. As lições aprendidas destacaram a importância da preparação detalhada, a flexibilidade para se adaptar a circunstâncias imprevistas e a comunicação clara. Seguir as heurísticas de usabilidade revelou muitos erros que afetam significativamente a experiência do usuário.
+
+Essa experiência contribuiu para o desenvolvimento de habilidades em interação humano-computador, avaliação de usabilidade e comunicação. A prática de seguir corretamente as heurísticas de usabilidade e trabalhar em equipe para resolver problemas complexos será valiosa em futuros projetos e na carreira de programação.
 
