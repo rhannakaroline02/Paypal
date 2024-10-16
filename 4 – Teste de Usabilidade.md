@@ -109,8 +109,7 @@
 | Participante 2 |                 |                         |
 |----------------|-----------------|-------------------------|
 | **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
-|         1       |     Dificuldade em escolher Portfólio: Encontrou dificuldade para encontrar a opção desejada.        |                      Facilidade de aprendizado.   | 
-|	      |                                               |                         |
+|         1       |     Dificuldade em escolher Portfólio: Encontrou dificuldade para encontrar a opção desejada.        |                      Facilidade de aprendizado. |
 |         2       |       O Sistema encontrou dificuldade de conexão.           |     Eficiência de uso.                    |
 |          3      |         Ele não conseguiu colar a numeração do cartão.         |    Eficiência de uso.                     |
 |          4    |  O Sistema disse que não foi possível concluir a transação naquele momento. |            Prevenção de erros.             |
