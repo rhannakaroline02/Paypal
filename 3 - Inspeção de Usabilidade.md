@@ -1,6 +1,6 @@
 # 3 - Inspeção de Usabilidade
 ### 3.1 - Planejamento
-
+- A inspeção de usabilidade é um processo sistemático que avalia a qualidade de interação do usuário com um sistema.O processo é organizado em etapas claras, desde o planejamento até a análise e relatório, para garantir que todos os aspectos do sistema sejam avaliados e melhorados conforme necessário.
 
 ### 3.2 - Detecção
 Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve identificar potenciais problemas de usabilidade nas interações escolhidas.
