@@ -16,130 +16,45 @@ Proteção ao Comprador e ao Vendedor: Programas de proteção que asseguram tan
 Segurança: Criptografia SSL e autenticação multifator para garantir a segurança das transações e dos dados pessoais dos usuários.
 
 ### - 2.2 – Perfil dos usuários-alvo
-Consumidores Individuais que buscam fazer pagamentos com segurança para pessoas físicas ou jurídicas em todo o mundo.
 
-Faixa Etária:
- Jovens e adultos, entre 18 a 50 anos.
+Consumidores Individuais que buscam fazer pagamentos com segurança para pessoas físicas ou jurídicas em todo o mundo. Na faixa etária entre 18 e 50 anos de idade. 
 
-Contexto de Uso:
-Realização de compras online em lojas de e-commerce.
-Transferências de dinheiro e Pagamento de serviços e assinaturas online.
 
-Responsabilidades:
+As responsabilidades de uso dentro da aplicação inclui:
 Gestão de Conta: Manter os detalhes da conta atualizados, incluindo métodos de pagamento.
 Segurança: Garantir que suas informações de login estejam seguras.
 Transações: Realizar e monitorar transações, utilizando as funcionalidades de pagamento e transferência de dinheiro.
 
-2. Comerciantes e Pequenas Empresas
 
-Faixa Etária:
-Adultos, entre 25 e 60 anos.
-
-Contexto de Uso:
-Aceitação de pagamentos online através de suas lojas virtuais.
-Gestão de transações e fluxo de caixa e processamento de pagamentos de clientes de maneira segura e eficiente.
-
-Responsabilidades:
-Configuração de Pagamentos: Integrar PayPal como método de pagamento nas plataformas de e-commerce.
-Gestão de Vendas: Monitorar e gerenciar pagamentos recebidos e pendentes.
-Segurança e Conformidade: Garantir que as transações estejam em conformidade com os regulamentos de segurança financeira.
-
-3. Grandes Empresas e Corporações
-
-Faixa Etária:
-Executivos e gerentes, entre 30 e 65 anos.
-
-Contexto de Uso:
-Implementação de soluções de pagamento escaláveis para grandes volumes de transações.
-Integração com sistemas de ERP (Enterprise Resource Planning) para gestão financeira avançada.
-Utilização de ferramentas analíticas para entender o comportamento de consumo e melhorar a oferta de produtos ou serviços.
-
-Responsabilidades:
-Integração de Sistemas: Conectar o PayPal com outros sistemas de gestão empresarial.
-Gestão Financeira: Monitorar o fluxo de caixa e realizar auditorias internas.
-Segurança e Conformidade: Implementar políticas de segurança avançadas e assegurar a conformidade regulatória.
-
-4. Desenvolvedores e Integradores
-
-Faixa Etária:
-Jovens adultos, entre 20 e 50 anos.
-
-Contexto de Uso:
-Integração da API do PayPal em sites e aplicativos de comércio eletrônico.
-Desenvolvimento de novas funcionalidades e aplicações que utilizam o PayPal como solução de pagamento.
-
-Responsabilidades:
-Codificação e Desenvolvimento: Escrever e manter o código que integra as funcionalidades do PayPal.
-Teste e Depuração: Garantir que as integrações funcionem corretamente e sem bugs.
-Suporte Técnico: Fornecer suporte técnico para resolver problemas de integração e garantir a continuidade do serviço
-
-### 2.3 – Tarefas dos usuários a serem avaliados
+### 2.3 – Tarefas dos usuários a serem avaliados:
 
 1. Consumidores Individuais
 
-Tarefas:
-Cadastro e Verificação de Conta:
+1.1Tarefas:
+
+Cadastro:
 Criar uma conta no PayPal e verificar o e-mail.
-Adicionar métodos de pagamento, como cartões de crédito ou débito.
 
-Realizar Compras Online:
-Navegar por sites de e-commerce que aceitam PayPal.
-Concluir a compra usando PayPal como método de pagamento.
+Vincular uma conta bancária:
+Como o paypal é uma carteira digital será necessário vincular uma conta bancária para poder solicitar e enviar pagamentos.
 
-Transferências de Dinheiro:
-Enviar dinheiro para amigos ou familiares usando o e-mail ou número de telefone.
-Receber dinheiro de outros usuários e transferir para a conta bancária.
+Acessar suporte ao cliente: 
+Contatar o suporte do paypal para resolver ploblemas ou dúvidas sobre a conta.
 
-Gerenciamento de Conta:
-Verificar o saldo e o histórico de transações.
-Atualizar informações pessoais e métodos de pagamento.
+Solicitar pagamento a outra pessoa: 
+Ultilizar a opção "solicitar pagamento"
 
-2. Comerciantes e Pequenas Empresas
+Acessar ferramentas do vendedor no PayPal: 
+Acessar ferramentas especifícas para vendedor para gerenciar suas vendas e transações.
 
-Tarefas:
-Integração de Pagamento:
-Configurar PayPal como método de pagamento no site de e-commerce.
-Testar a funcionalidade para garantir que os pagamentos sejam processados corretamente.
+Enviar Fatura:
+Soliciar pagamento atráves de uma fatura 
 
-Gerenciamento de Vendas:
-Monitorar e gerenciar pagamentos recebidos.
-Gerar relatórios de vendas e fluxo de caixa.
+Adcionar duas instituições aos favoritos: 
+Selecionar e adicionar duas instituições para facilitar futuras transações.
 
-Suporte ao Cliente:
-Resolver disputas e questões relacionadas a pagamentos.
-Oferecer suporte ao cliente para transações realizadas via PayPal.
+Alterar informações de perfil: 
+Fazer a alteração de informações da conta (Endereço, número de telefone etc)
 
-Segurança:
-Implementar medidas de segurança para proteger os dados dos clientes.
-Garantir a conformidade com regulamentos financeiros.
 
-3. Grandes Empresas e Corporações
 
-Tarefas:
-
-#### Integração de Sistemas:
-Conectar PayPal com sistemas de ERP e outras plataformas de gestão.
-Desenvolver e manter integrações para facilitar grandes volumes de transações.
-
-#### Análise de Dados:
-Utilizar ferramentas analíticas para entender o comportamento de consumo.
-Melhorar a oferta de produtos e serviços com base nas análises de dados.
-
-#### Segurança e Conformidade:
-Implementar políticas de segurança avançadas.
-Assegurar a conformidade com as regulamentações financeiras e de privacidade.
-
-#### 4. Desenvolvedores e Integradores
-
-Tarefas:
-Desenvolvimento de Integrações:
-Usar a API do PayPal para integrar o sistema de pagamento em sites e aplicativos.
-Escrever e manter o código para garantir a funcionalidade adequada.
-
-Teste e Depuração:
-Realizar testes para garantir que a integração funcione corretamente.
-Depurar problemas e resolver bugs que possam surgir durante a integração.
-
-Suporte Técnico:
-Fornecer suporte técnico para ajudar comerciantes e empresas a integrar PayPal.
-Atualizar e manter a documentação técnica das integrações.
