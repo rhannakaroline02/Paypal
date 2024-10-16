@@ -172,11 +172,11 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 
 | Severidade | Quantidade|
 |------------|-----------|
-| 0 - Falso-Positivo |  |
-| 1 - Cosmetico |  |
-| 2 - Leve |  |
-| 3 - Grande |   |
-| 4 - Catastrofico |  
+| 0 - Falso-Positivo | 12 |
+| 1 - Cosmetico | 1 |
+| 2 - Leve | 5 |
+| 3 - Grande | 5 |
+| 4 - Catastrofico | 2 |
 
 
 
