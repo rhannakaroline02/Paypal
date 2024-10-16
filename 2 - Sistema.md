@@ -32,28 +32,28 @@ Transações: Realizar e monitorar transações, utilizando as funcionalidades d
 
 1.1Tarefas:
 
-Cadastro:
+1.2 Cadastro:
 Criar uma conta no PayPal e verificar o e-mail.
 
-Vincular uma conta bancária:
+1.3 Vincular uma conta bancária:
 Como o paypal é uma carteira digital será necessário vincular uma conta bancária para poder solicitar e enviar pagamentos.
 
-Acessar suporte ao cliente: 
+1.4 Acessar suporte ao cliente: 
 Contatar o suporte do paypal para resolver ploblemas ou dúvidas sobre a conta.
 
-Solicitar pagamento a outra pessoa: 
+1.5 Solicitar pagamento a outra pessoa: 
 Ultilizar a opção "solicitar pagamento"
 
-Acessar ferramentas do vendedor no PayPal: 
+1.6 Acessar ferramentas do vendedor no PayPal: 
 Acessar ferramentas especifícas para vendedor para gerenciar suas vendas e transações.
 
-Enviar Fatura:
+1.7 Enviar Fatura:
 Soliciar pagamento atráves de uma fatura 
 
-Adcionar duas instituições aos favoritos: 
+1.8 Adcionar duas instituições aos favoritos: 
 Selecionar e adicionar duas instituições para facilitar futuras transações.
 
-Alterar informações de perfil: 
+1.9 Alterar informações de perfil: 
 Fazer a alteração de informações da conta (Endereço, número de telefone etc)
 
 
