@@ -7,7 +7,7 @@
 ### Perfis dos Usuários:
 - P1 - 19 anos, Engenharia de Software, nenhum conhecimento do sitema.
 - P2 - 25 anos, Engenharia de Software, nenhum conhecimento do sitema.
-- P3 - 25 anos, Química e Biologia , nenhum conhecimento do sitema.
+- P3 - 25 anos, Química e Biologia, nenhum conhecimento do sitema.
 - P4 - 18 anos, Engenharia de Software, nenhum conhecimento do sitema.
 
  ### 4.2 - Preparação para o teste.
@@ -37,7 +37,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |         1       |        0              | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -45,7 +45,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |        3        |            1          | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -53,7 +53,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |         0       |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -61,7 +61,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |        0        |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -69,7 +69,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |        0        |          1            | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -77,7 +77,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |        3        |           3           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -85,7 +85,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |        0        |           0           | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
@@ -93,9 +93,9 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |             |                 |                       |           |
-| P2           |             |                 |                       |           |
+| P2           |             |         0       |            1          | CONCLUIDO |
 | P3           |             |                 |                       |           |
-| p4           |             |                 |                       |           |
+| P4           |             |                 |                       |           |
 
 
 | Participante 1 |                 |                         |
