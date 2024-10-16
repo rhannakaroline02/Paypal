@@ -5,6 +5,12 @@
 ### 5.2 - 1° Etapa
 
 - **Tela de Login**
+1. **Largest Contentful Paint**
+    - Métrica: 3,1s
+    - O tempo que leva para o maior elemento visível da página ser renderizado é de 3,1 segundos. Isso está acima do recomendado (≤ 2,5s), indicando que a página leva um tempo considerável para exibir seu conteúdo principal.
+2. **Interaction to Next Pain**
+    - Métrica: 211ms
+    - A responsividade da página para interações do usuário, como cliques em botões, é de 211 milissegundos. Embora esteja dentro do intervalo aceitável (≤ 200ms), há espaço para melhoria.
 
 | Largest Contentful Paint | Interaction to Next Pain | Comulative Layout shift | First Contentful Paint | Time to First Byte |
 |--------------------------|--------------------------|-------------------------|------------------------|--------------------|
