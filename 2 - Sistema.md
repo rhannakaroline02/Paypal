@@ -28,8 +28,6 @@ As responsabilidades de uso dentro da aplicação inclui:
 
 ### 2.3 – Tarefas dos usuários a serem avaliados:
 
-1. Consumidores Individuais
-
 1.1Tarefas:
 
 1.2 Cadastro:
