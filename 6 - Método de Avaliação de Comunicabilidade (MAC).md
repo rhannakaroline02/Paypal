@@ -12,11 +12,27 @@
 - foco na **RECEPÇÃO** (como o usuário recebe a mensagem do designer)
 
   ### 6.2 – Roteiro das Atividades
-- **Criar uma conta no PayPal**: O usuário deve se registrar, criando uma conta pessoal ou empresarial e verificando seu e-mail.
-- **Adicionar uma conta bancária ou cartão de crédito**: O usuário deve vincular uma conta bancária ou cartão à sua conta PayPal para poder enviar ou receber dinheiro.
-- **Enviar dinheiro para um amigo**: O usuário deve localizar a opção para enviar dinheiro, selecionar um destinatário e completar a transferência.
-- **Solicitar pagamento a outra pessoa**: O usuário deve pedir a um amigo ou cliente que envie dinheiro, usando a função "solicitar pagamento".
-- **Visualizar o histórico de transações**: O usuário deve acessar e filtrar o histórico de transações, verificando detalhes de um pagamento recente.
-- **Efetuar um pagamento em um site de comércio eletrônico**: O usuário deve usar o PayPal para pagar por um produto ou serviço em um site de compras online.
-- **Verificar e retirar saldo disponível**: O usuário deve verificar o saldo da conta e realizar um saque para sua conta bancária vinculada.
-- **Alterar informações do perfil ou preferências de pagamento**: O usuário deve acessar as configurações da conta para atualizar informações pessoais (como endereço ou número de telefone) ou alterar o método de pagamento padrão.
+1. **Criar uma conta no PayPal**:
+   - O usuário deve se registrar, criando uma conta pessoal ou empresarial e verificando seu e-mail.
+
+2. **Adicionar uma conta bancária**:
+   - O usuário deve vincular uma conta bancária à sua conta PayPal para poder enviar ou receber dinheiro.
+
+3. **Acessar suporte ao cliente**:
+   - Os usuários podem contatar o suporte ao cliente do PayPal para resolver problemas ou dúvidas sobre sua conta.
+
+4. **Solicitar pagamento a outra pessoa**:
+   - O usuário deve pedir a um amigo ou cliente que envie dinheiro, usando a função "solicitar pagamento".
+
+5. **Acessar as Ferramentas do Vendedor no PayPal**:
+   - O vendedor pode acessar ferramentas específicas para gerenciar suas vendas e transações.
+
+6. **Enviar Fatura**:
+   - Os vendedores podem criar e enviar faturas detalhadas para clientes, permitindo um gerenciamento profissional das transações.
+
+7. **Adicionar 2 Instituições Favoritos**:
+   - O usuário deve selecionar e adicionar duas instituições ou contas frequentes à sua lista de favoritos para facilitar futuras transações.
+
+8. **Alterar informações do perfil **:
+   - O usuário deve acessar as configurações da conta para atualizar informações pessoais (como endereço ou número de telefone)
+
