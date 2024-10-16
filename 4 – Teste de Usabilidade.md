@@ -106,3 +106,16 @@
 |                |                 |                         |
 
 
+| Participante 2 |                 |                         |
+|----------------|-----------------|-------------------------|
+| **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
+|         1       |     Dificuldade em escolher Portfólio: Encontrou dificuldade para encontrar a opção desejada.        |                         |
+|	      |                                               |                         |
+|         2       |       O Sistema encontrou dificuldade de conexão.           |                         |
+|          3      |         Ele não conseguiu colar a numeração do cartão.         |                         |
+|          4    |  O Sistema disse que não foi possível concluir a transação naquele momento. |                         |
+|          5      |      Não conseguiu enxergar a opção para adicionar a conta bancária de primeira.            |                         |
+|         6       |     O Sistema perguntou se o usuário precisa de ajuda e pediu para entrar em contato com a Central de Ajuda. Entrou as opções da Central de Ajuda, porém não foi útil.             |                         |
+|          7      |      Entrou em contato com o suporte e foi encaminhado à Central de ajuda.            |                         |
+|          8      |      Desistiu de acessar as ferramentas do Vendedor no PayPal.           |                         |
+|          9      |         Devido a não conseguir adicionar a conta bancária. Desistiu de fazer a opção de inserir bancos favoritos.        |                         |
