@@ -35,4 +35,18 @@
 
 8. **Alterar informações do perfil **:
    - O usuário deve acessar as configurações da conta para atualizar informações pessoais (como endereço ou número de telefone)
+  
+### 6.2 – Roteiro das Atividades
+
+
+### 6.3 – Perfis dos Usuários
+
+
+### 6.4 – Execução
+
+
+### 6.4 – Resultado
+![Teste P3]([URL_da_Imagem](https://drive.google.com/file/d/1Pe5pZMi7hxmNnMdmF3v_tFIZVohUuQXy/view?usp=drive_link))
+
+[Clique aqui para assistir o vídeo](./TESTE%20CAIO.mp4)
 
