@@ -92,7 +92,7 @@
 ### Tarefa 8
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |    O:43 seg |         0       |            0          | CONCLUIDO |
+| P1           |    0:43 seg |         0       |            0          | CONCLUIDO |
 | P2           |    4 min    |         0       |            1          | CONCLUIDO |
 | P3           |   6:04 min  |         0       |           0           | CONCLUIDO |
 | P4           |             |                 |                       |           |
