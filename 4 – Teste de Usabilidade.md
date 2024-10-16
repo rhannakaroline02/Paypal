@@ -33,66 +33,66 @@
 •	Interação do usuário com o produto apontando problemas de usabilidade
 
 ### 4.5 - Analise dos resultados.
-|                                    Tarefa 1                                      |
+### Tarefa 1  
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
+| P1           |  4:24mim    |         0       |        1              | CONCLUIDO |
 | P2           |     6min    |         1       |        0              | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
-|                                    Tarefa 2                                      |
+### Tarefa 2
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
-| P2           |     10min    |        3        |            1          | DESISTIU  |
+| P1           |  2:23 min   |       2         |         1             | DESISTIU  |
+| P2           |     10min   |        3        |            1          | DESISTIU  |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
-|                                    Tarefa 3                                      |
+### Tarefa 3
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
-| P2           |     4min    |         0       |           0           | CONCLUIDO |
+| P1           |   1:24min   |         0       |           0           | CONCLUIDO |
+| P2           |   4:00 min  |         0       |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
-|                                    Tarefa 4                                      |
+### Tarefa 4
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
-| P2           |     3min    |        0        |           0           | CONCLUIDO |
+| P1           |    2:14 min |        1        |           2           | CONCLUIDO |
+| P2           |    3 min    |        0        |           0           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
-|                                    Tarefa 5                                      |
+### Tarefa 5
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
+| P1           |    1:20min  |        2        |          0            | DESISTIU  |
 | P2           |    1min     |        0        |          1            | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
-|                                    Tarefa 6                                      |
+### Tarefa 6
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
+| P1           |     2:03min |        2        |           0           | DESISTIU  |
 | P2           |     6min    |        3        |           3           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
-|                                    Tarefa 7                                      |
+### Tarefa 7
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
+| P1           |    3:32min  |        3        |           1           | DESISTIU  |
 | P2           |    1min     |        0        |           0           | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
-|                                    Tarefa 8                                      |
+### Tarefa 8
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |             |                 |                       |           |
+| P1           |     O:43seg |         0       |            0          | CONCLUIDO |
 | P2           |     4min    |         0       |            1          | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
