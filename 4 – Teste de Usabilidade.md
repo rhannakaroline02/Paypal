@@ -27,6 +27,19 @@
 •	Interação do usuário com o produto apontando problemas de usabilidade
 
 ### 4.5 - Analise dos resultados.
-•	Relatório das dificuldades encontradas nas interações com o produto
-•	Recomendações de como resolvê-las
+| Participante | Tempo gasto | Número de erros | Solicitações de ajuda |
+|--------------|-------------|-----------------|-----------------------|
+| P1           |             |                 |                       |
+| P2           |             |                 |                       |
+| P3           |             |                 |                       |
+
+
+
+| Participante 1 |                 |                         |
+|----------------|-----------------|-------------------------|
+| **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
+|                |                 |                         |
+|                |                 |                         |
+|                |                 |                         |
+
 
