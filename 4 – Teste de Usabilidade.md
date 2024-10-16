@@ -10,7 +10,18 @@
 •	Preparação do ambiente dos testes
 
 ### 4.3 - Teste piloto.
-•	Validação do funcionamento e configuração do teste verificando ele está ocorrendo de acordo com o planejado.
+- **O teste piloto foi conduzido para avaliar a usabilidade do sistema PayPal, focando nas seguintes tarefas**:
+  - Criar uma conta no PayPal
+  - Adicionar uma conta bancária
+  - Acessar suporte ao cliente
+  - Solicitar pagamento a outra pessoa
+  - Acessar as Ferramentas do Vendedor no PayPal
+  - Enviar Fatura
+  - Adicionar 2 Instituições Favoritos
+  - Alterar informações do perfil
+
+- **Ambiente de Teste**: O ambiente de teste foi configurado para simular um cenário real de uso, incluindo dispositivos comuns (smartphones) e uma conexão de internet estável. Tivemos que reanalisar e atualizar as tarefas, pois algumas tarefas não eram executáveis.
+
 
 ### 4.4 - Execução do teste.
 •	Interação do usuário com o produto apontando problemas de usabilidade
