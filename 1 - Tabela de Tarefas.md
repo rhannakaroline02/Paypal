@@ -7,7 +7,14 @@ A4: Itamar Pereira - 22352613 <br>
 A5: Kaylane Soares Vieira - 22450510 <br>
 A6: Sérgio Fernandes Mar Filho - 22450190 <br>
 
+# Tarefas
+
+- **T1:** Formatação do relatório de inspeção de usabilidade.
+- **T2:** Realização do teste de usabilidade com usuários-alvo.
+-**T3:** Análise dos dados coletados durante o teste de usabilidade.
+  
+
 | Tarefa x Dia | 30| 1 | 2 | 7| 8|9|10|11|12|13|14|15|16|
 | ------------- | ----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   T1  |   |
+|   T2  |  |
