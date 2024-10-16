@@ -7,7 +7,7 @@ A4: Itamar Pereira - 22352613 <br>
 A5: Kaylane Soares Vieira - 22450510 <br>
 A6: Sérgio Fernandes Mar Filho - 22450190 <br>
 
-| Tarefa x Dia | 30|
-| ------------- | ----- |
+| Tarefa x Dia | 30| 1 | 2 | 7| 8|9|10|11|12|13|14|15|16|
+| ------------- | ----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |----- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
