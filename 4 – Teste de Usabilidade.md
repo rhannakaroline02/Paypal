@@ -36,8 +36,8 @@
 ### Tarefa 1  
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |  4:24mim    |         0       |        1              | CONCLUIDO |
-| P2           |     6min    |         1       |        0              | CONCLUIDO |
+| P1           |  4:2 4min   |         0       |        1              | CONCLUIDO |
+| P2           |    6 min    |         1       |        0              | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
@@ -45,7 +45,7 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |  2:23 min   |       2         |         1             | DESISTIU  |
-| P2           |     10min   |        3        |            1          | DESISTIU  |
+| P2           |    10 min   |        3        |            1          | DESISTIU  |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
@@ -69,31 +69,31 @@
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |    1:20min  |        2        |          0            | DESISTIU  |
-| P2           |    1min     |        0        |          1            | DESISTIU  |
+| P2           |    1 min    |        0        |          1            | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 6
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |     2:03min |        2        |           0           | DESISTIU  |
-| P2           |     6min    |        3        |           3           | CONCLUIDO |
+| P1           |     2:03 min|        2        |           0           | DESISTIU  |
+| P2           |     6 min   |        3        |           3           | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 7
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |    3:32min  |        3        |           1           | DESISTIU  |
-| P2           |    1min     |        0        |           0           | DESISTIU  |
+| P1           |    3:32 min |        3        |           1           | DESISTIU  |
+| P2           |    1 min    |        0        |           0           | DESISTIU  |
 | P3           |             |                 |                       |           |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 8
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |     O:43seg |         0       |            0          | CONCLUIDO |
-| P2           |     4min    |         0       |            1          | CONCLUIDO |
+| P1           |    O:43 seg |         0       |            0          | CONCLUIDO |
+| P2           |    4 min    |         0       |            1          | CONCLUIDO |
 | P3           |             |                 |                       |           |
 | P4           |             |                 |                       |           |
 
@@ -101,9 +101,9 @@
 | Participante 1 |                 |                         |
 |----------------|-----------------|-------------------------|
 | **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
-|                |                 |                         |
-|                |                 |                         |
-|                |                 |                         |
+|       2        | A atividade de adicionar uma conta bancária é muita trabalhosa, deixando o usuário incapaz de concluir essa atividade.| Prevenção de erros|
+|       5        | A opção Ferramentas do vendedor é muita discreta.| Facilidade de aprendizagem|
+|       7        | Favoritar instituições, é uma atividade muita difícil no Paypal, pois, sua mecânica é ineficiente e pouca intuitiva.| Efeciência de uso|
 
 
 | Participante 2 |                 |                         |
@@ -119,3 +119,8 @@
 |          7      |      Entrou em contato com o suporte e foi encaminhado à Central de ajuda.            |          Satisfação de uso.               |
 |          8      |      Desistiu de acessar as ferramentas do Vendedor no PayPal.           |           Facilidade de aprendizado.              |
 |          9      |         Devido a não conseguir adicionar a conta bancária. Desistiu de fazer a opção de inserir bancos favoritos.        |            Satisfação de uso.             |
+
+| Participante 3 |                 |                         |
+|----------------|-----------------|-------------------------|
+| **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
+|                | | |
