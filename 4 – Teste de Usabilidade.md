@@ -36,9 +36,9 @@
 ### Tarefa 1  
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |  4:2 4min   |         0       |        1              | CONCLUIDO |
+| P1           |  4:24 min   |         0       |        1              | CONCLUIDO |
 | P2           |    6 min    |         1       |        0              | CONCLUIDO |
-| P3           |             |                 |                       |           |
+| P3           | 6:00 min    |        0        |        1              | CONCLUIDO |
 | P4           |             |                 |                       |           |
 
 ### Tarefa 2
@@ -46,15 +46,15 @@
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |  2:23 min   |       2         |         1             | DESISTIU  |
 | P2           |    10 min   |        3        |            1          | DESISTIU  |
-| P3           |             |                 |                       |           |
+| P3           |   2:20 min  |        0        |            2          | CONCLUIDO |
 | P4           |             |                 |                       |           |
 
 ### Tarefa 3
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |   1:24min   |         0       |           0           | CONCLUIDO |
+| P1           |  1:24 min   |         0       |           0           | CONCLUIDO |
 | P2           |   4:00 min  |         0       |           0           | CONCLUIDO |
-| P3           |             |                 |                       |           |
+| P3           |  2:20 min   |        0        |           0           | CONCLUIDO |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 4
@@ -62,23 +62,23 @@
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |    2:14 min |        1        |           2           | CONCLUIDO |
 | P2           |    3 min    |        0        |           0           | CONCLUIDO |
-| P3           |             |                 |                       |           |
+| P3           |   2:13 min  |       1         |          2            | CONCLUIDO |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 5
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |    1:20min  |        2        |          0            | DESISTIU  |
+| P1           |   1:20 min  |        2        |          0            | DESISTIU  |
 | P2           |    1 min    |        0        |          1            | DESISTIU  |
-| P3           |             |                 |                       |           |
+| P3           |   3:45 min  |       2         |         0             | DESISTIU  |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 6
 | Participante | Tempo gasto | Número de erros | Solicitações de ajuda | Resultado | 
 |--------------|-------------|-----------------|-----------------------|-----------|
-| P1           |     2:03 min|        2        |           0           | DESISTIU  |
+| P1           |   2:03 min  |        2        |           0           | DESISTIU  |
 | P2           |     6 min   |        3        |           3           | CONCLUIDO |
-| P3           |             |                 |                       |           |
+| P3           |   5:07 min  |       2         |          0            | DESISTIU  |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 7
@@ -86,7 +86,7 @@
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |    3:32 min |        3        |           1           | DESISTIU  |
 | P2           |    1 min    |        0        |           0           | DESISTIU  |
-| P3           |             |                 |                       |           |
+| P3           |   2:00 min  |        0        |           0           | CONCLUIDO |
 | p4           |             |                 |                       |           |
 
 ### Tarefa 8
@@ -94,7 +94,7 @@
 |--------------|-------------|-----------------|-----------------------|-----------|
 | P1           |    O:43 seg |         0       |            0          | CONCLUIDO |
 | P2           |    4 min    |         0       |            1          | CONCLUIDO |
-| P3           |             |                 |                       |           |
+| P3           |   6:04 min  |         0       |           0           | CONCLUIDO |
 | P4           |             |                 |                       |           |
 
 
@@ -123,4 +123,10 @@
 | Participante 3 |                 |                         |
 |----------------|-----------------|-------------------------|
 | **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
-|                | | |
+|    2           | Para adicionar uma conta bancária é uma atividade trabalhosa, dificultandoo usuário a concluir rápido a tarefa. | Prenvenção de errros |
+|    5           | A opção de ferramenta para o vendedor é muito discreta, assim impossibilitando o usuário de conlcuir essa tarefa.| Facilidade de Aprendizagem |
+|    6           | O usuário não conseguiu verificar a opção de enviar as faturas, por ser uma opção pouco visível. | Eficiência de uso |
+
+| Participante 4 |                 |                         |
+|----------------|-----------------|-------------------------|
+| **ID**         | **Descrição do Problema** | **Fator de Usabilidade** |
