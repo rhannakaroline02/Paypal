@@ -2,10 +2,10 @@
 ### - 2.1 Domínio e objetivo do sistema 
 O aplicativo PayPal está incluído no domínio de plataformas de pagamento online e serve como uma carteira digital, permite que os usuários realizem transações financeiras. O PayPal realiza pagamentos online em e-commerce e transferências de dinheiro entre indivíduos e pagamentos de serviços.
 
-####Histórico de Fundação
+#### Histórico de Fundação
 O aplicativo PayPal foi fundado em dezembro de 1998 por Max Levchin, Peter Thiel e Luke Nosek como Confinity. No início, a empresa se concentrou em software de segurança para dispositivos portáteis, antes de mudar para a linha de negócios de transferências de dinheiro. O PayPal tornou-se rapidamente popular e foi adquirido pelo eBay em 2002. Desde então, cresceu e se tornou independente novamente em 2015.
 
-####Principais Funcionalidades
+#### Principais Funcionalidades
 Cadastro de Usuários: Permite que novos usuários se registrem na plataforma, criando um perfil com informações básicas.
 Pagamentos Online: Facilita pagamentos em lojas online, permitindo que os usuários paguem com segurança usando seus saldos do PayPal, cartões de crédito ou débito.
 Transferências de Dinheiro: Permite transferências rápidas de dinheiro entre usuários.
@@ -73,7 +73,7 @@ Codificação e Desenvolvimento: Escrever e manter o código que integra as func
 Teste e Depuração: Garantir que as integrações funcionem corretamente e sem bugs.
 Suporte Técnico: Fornecer suporte técnico para resolver problemas de integração e garantir a continuidade do serviço
 
-###2.3 – Tarefas dos usuários a serem avaliados
+### 2.3 – Tarefas dos usuários a serem avaliados
 
 1. Consumidores Individuais
 
@@ -117,19 +117,19 @@ Garantir a conformidade com regulamentos financeiros.
 
 Tarefas:
 
-####Integração de Sistemas:
+#### Integração de Sistemas:
 Conectar PayPal com sistemas de ERP e outras plataformas de gestão.
 Desenvolver e manter integrações para facilitar grandes volumes de transações.
 
-####Análise de Dados:
+#### Análise de Dados:
 Utilizar ferramentas analíticas para entender o comportamento de consumo.
 Melhorar a oferta de produtos e serviços com base nas análises de dados.
 
-####Segurança e Conformidade:
+#### Segurança e Conformidade:
 Implementar políticas de segurança avançadas.
 Assegurar a conformidade com as regulamentações financeiras e de privacidade.
 
-####4. Desenvolvedores e Integradores
+#### 4. Desenvolvedores e Integradores
 
 Tarefas:
 Desenvolvimento de Integrações:
