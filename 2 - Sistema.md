@@ -1,5 +1,5 @@
 # 2 - Sistema
-### - 2.1 Domínio e objetivo do sistema 
+###  2.1 Domínio e objetivo do sistema 
 O aplicativo PayPal está incluído no domínio de plataformas de pagamento online e serve como uma carteira digital, permite que os usuários realizem transações financeiras. O PayPal realiza pagamentos online em e-commerce e transferências de dinheiro entre indivíduos e pagamentos de serviços.
 
 #### Histórico de Fundação
@@ -15,7 +15,7 @@ Gerenciamento de Contas: Ferramentas para visualizar o saldo, histórico de tran
 Proteção ao Comprador e ao Vendedor: Programas de proteção que asseguram tanto compradores quanto vendedores em caso de problemas com transações.
 Segurança: Criptografia SSL e autenticação multifator para garantir a segurança das transações e dos dados pessoais dos usuários.
 
-### - 2.2 – Perfil dos usuários-alvo
+### 2.2 – Perfil dos usuários-alvo
 
 Consumidores Individuais que buscam fazer pagamentos com segurança para pessoas físicas ou jurídicas em todo o mundo. Na faixa etária entre 18 e 50 anos de idade. 
 
