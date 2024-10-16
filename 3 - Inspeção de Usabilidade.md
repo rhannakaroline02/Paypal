@@ -1,7 +1,17 @@
 # 3 - Inspeção de Usabilidade
 ### 3.1 - Planejamento
 - A inspeção de usabilidade é um processo sistemático que avalia a qualidade de interação do usuário com um sistema.O processo é organizado em etapas claras, desde o planejamento até a análise e relatório, para garantir que todos os aspectos do sistema sejam avaliados e melhorados conforme necessário.
+  
+| **Etapa**    | **Descrição**                                                                                           |
+|--------------|---------------------------------------------------------------------------------------------------------|
+| Planejamento | Definir os objetivos da inspeção, selecionar os avaliadores  e planejar o processo. |
+| Execução     | Conduzir a avaliação usando técnicas como Avaliação Heurística e Teste de Usabilidade. Ferramentas como protótipos ou sistemas reais são utilizados para simular cenários de uso. |
+| Análise      | Coletar os dados, identificar os problemas de usabilidade encontrados, e classificá-los usando heurísticas e severidade. |
+| Resultados    | Compilar um relatório detalhado com todas as descobertas, incluindo sugestões de melhoria para os problemas identificados. |
 
+
+- As heurísticas de Nielsen são utilizadas para identificar problemas de usabilidade baseados em princípios gerais de design. Elas fornecem um framework para avaliar a eficácia do design do sistema.
+- A classificação de severidade ajuda a priorizar os problemas encontrados durante a inspeção. Isso garante que os problemas mais críticos sejam resolvidos primeiro, melhorando significativamente a experiência do usuário.
 ### 3.2 - Detecção
 Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve identificar potenciais problemas de usabilidade nas interações escolhidas.
 
