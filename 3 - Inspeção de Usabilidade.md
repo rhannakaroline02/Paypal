@@ -173,10 +173,10 @@ Agrupamento de todas os problemas identificados e eliminaça o de duplicatas.
 | Severidade | Quantidade|
 |------------|-----------|
 | 0 - Falso-Positivo |  |
-| 1 - Cosme tico |  |
+| 1 - Cosmetico |  |
 | 2 - Leve |  |
 | 3 - Grande |   |
-| 4 - Catastro fico |  
+| 4 - Catastrofico |  
 
 
 
