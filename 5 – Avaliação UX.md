@@ -10,6 +10,8 @@
 |--------------------------|--------------------------|-------------------------|------------------------|--------------------|
 |          3,1s            |          211ms           |          0,07           |          2,2s          |        1,7s        |
 
+<img src="https://adimax.com.br/wp-content/uploads/2022/06/como-adestrar-cachorro-filhote.jpg" alt="Exemplo da Imagem" width="300">
+
 - **Desempenho da Tela de Login**
 
 
