@@ -48,5 +48,12 @@
 ### 6.4 – Resultado
 ![Teste P3]([URL_da_Imagem](https://drive.google.com/file/d/1Pe5pZMi7hxmNnMdmF3v_tFIZVohUuQXy/view?usp=drive_link))
 
-[Clique aqui para assistir o vídeo](./TESTE%20CAIO.mp4)
+[Clique aqui para assistir o vídeo](./TESTE%20CAIO.mp4)## Assista ao Vídeo
+
+<video controls>
+  <source src="./TESTE%20CAIO.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
+
+
 
