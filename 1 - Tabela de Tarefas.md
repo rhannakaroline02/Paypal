@@ -12,7 +12,7 @@ A6: Sérgio Fernandes Mar Filho - 22450190 <br>
 - **T1:** Formatação do relatório de inspeção de usabilidade.
 - **T2:** Realização do teste de usabilidade com usuários-alvo.
 - **T3:** Análise dos dados coletados durante o teste de usabilidade.
--**T4:**  Aplicação da avaliação de UX.
+- **T4:**  Aplicação da avaliação de UX.
   
   
 
