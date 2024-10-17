@@ -36,9 +36,6 @@
 8. **Alterar informações do perfil **:
    - O usuário deve acessar as configurações da conta para atualizar informações pessoais (como endereço ou número de telefone)
   
-### 6.2 – Roteiro das Atividades
-
-
 ### 6.3 – Perfis dos Usuários
 - P1 - 19 anos, Estudande do Ensino Médio, Nenhum Conhecimento do Sistema.
 - P2 - 18 anos, Engenharia de Software, Nenhum Conhecimento do Sistema.
@@ -47,7 +44,13 @@
   
 
 ### 6.4 – Execução
+Realizamos um teste para ver se as informações no PayPal eram fáceis de entender. Usamos celulares e uma conexão de internet estável.
 
+#### Como o Teste Foi Executado
+Pedimos aos usuários que fizessem tarefas como criar uma conta, acessar suporte e fazer transações. Observamos como usavam o sistema e anotamos suas dificuldades e feedback.
+
+#### Orientações Abordadas pelos Avaliadores
+Os avaliadores explicaram claramente as tarefas. Durante o teste, garantimos que os participantes pudessem expressar dúvidas e dificuldades livremente.
 
 ### 6.4 – Resultado
 [Teste P3](https://drive.google.com/file/d/1Pe5pZMi7hxmNnMdmF3v_tFIZVohUuQXy/view?usp=drive_link)
