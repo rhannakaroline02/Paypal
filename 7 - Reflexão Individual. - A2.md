@@ -1,1 +1,7 @@
+    O Paypal foi uma opção escolhida para o trabalho por ter muitas problemáticas, desde a criação da conta ocorrendo erros no próprio sistema em outros funções, como inserir dados da conta bancária, erro na confirmação dos dados do cartão, o idioma não é padronizado mostrando a língua inglesa quando notifica algo sobre o sistema.
+    Na Inspeção de Usabilidade a equipe encontrou muitas problemáticas, levantando a certeza através dos níveis se severidade que o aplicativo mobile do Paypal precisa passar por mudanças urgentes para melhor usabilidade para o usuário que busca agilidade, facilidade e praticidade na sua certeira digital buscando a funcionalidade do produto.
+
+    O Teste de Usabilidade e Método de Avaliação de Comunicabilidade (MAC) mostraram que o aplicativo pode apresentar inconsistência em dispositivos diferentes, apresentando erro no próprio sistema confundindo o usuário que por sua vez pensa que ele próprio está cometendo o erro quando o anúncio está em inglês, por exemplo, e o usuário não sabe o idioma, somente a língua nativa (Português). Todos os voluntários não conseguiram concluir todas as oito tarefas, existindo desistências em prosseguir em uma delas. A avaliação final dos usuários sobre o aplicativo mostrou a insatisfação com o Paypal mobile por encontrarem dificuldade.
+
+    Após analisar o aplicativo. O Paypal deve passar por atualização para corrigir erros e melhorar a usabilidade do seu sistema. 
 
