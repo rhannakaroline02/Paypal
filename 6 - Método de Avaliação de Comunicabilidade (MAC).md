@@ -40,11 +40,41 @@
 
 
 ### 6.3 – Perfis dos Usuários
-
+- P1 - 19 anos, Estudande do Ensino Médio, Nenhum Conhecimento do Sistema.
+- P2 - 18 anos, Engenharia de Software, Nenhum Conhecimento do Sistema.
+- P3 - 21 anos, Engenharia de Sofware, Nenhum Conhecimento do Sistema.
+- P4 - 19 anos, Engenharia de Sofware, Nenhum Conhecimento do Sistema.
+  
 
 ### 6.4 – Execução
 
 
 ### 6.4 – Resultado
 [Teste P3](https://drive.google.com/file/d/1Pe5pZMi7hxmNnMdmF3v_tFIZVohUuQXy/view?usp=drive_link)
+- ### OBS: O sistema do Paypal e regido em relaçao a capturar e gravar tela, deixando a tela preta nas gravações de tela, isso prejudicando os outros videos dos testes.
 
+
+| **Tarefa** | **Participante** | **Resultado**                                                       |
+|------------|------------------|---------------------------------------------------------------------|
+| Tarefa 1   | P1               | Conseguiu concluir a maioria mais com dificuldade                    |
+| Tarefa 1   | P2               | Não Conseguiu                                                       |
+| Tarefa 1   | P3               | Conseguiu concluir poucas com bastante dificuldade                  |
+| Tarefa 1   | P4               | Conseguiu concluir com pouca dificuldade                            |
+
+### Tabela de Etiquetas Baseada nos Resultados dos Participantes
+
+| **Etiqueta**                | **Quantidade** |
+|-----------------------------|----------------|
+| Cadê?                       | 2              |
+| E agora?                    | 3              |
+| O que é isto?               | 4              |
+| Epa!                        | 3              |
+| Onde estou?                 | 2              |
+| Assim não dá.               | 2              |
+| Por que não funciona?       | 3              |
+| Ué, o que houve?            | 2              |
+| Pra mim está bom...         | 1              |
+| Desisto!                    | 2              |
+| Vai de outro jeito.         | 3              |
+| Não, obrigado.              | 1              |
+| Socorro!                    | 3              |
