@@ -77,7 +77,7 @@ Os avaliadores explicaram claramente as tarefas. Durante o teste, garantimos que
 | Por que não funciona?       | 3              |
 | Ué, o que houve?            | 2              |
 | Pra mim está bom...         | 1              |
-| Desisto!                    | 2              |
+| Desisto!                    | 15             |
 | Vai de outro jeito.         | 3              |
 | Não, obrigado.              | 1              |
 | Socorro!                    | 3              |
