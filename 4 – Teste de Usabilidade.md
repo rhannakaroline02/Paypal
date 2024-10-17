@@ -14,8 +14,7 @@
 •	Recrutamento dos participantes
 •	Instalação dos equipamentos
 •	Preparação do ambiente dos testes
-### P1
-"<img src="" alt="Termo de consetimento" width="300">"
+
 
 ### 4.3 - Teste piloto.
 - **O teste piloto foi conduzido para avaliar a usabilidade do sistema PayPal, focando nas seguintes tarefas**:
